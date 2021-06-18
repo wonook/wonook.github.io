@@ -6,8 +6,8 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Won Wook SONG
-title: Ph.D. Candidate @SNU, advised by Prof. Byung-Gon Chun
+name: Won Wook (Wonook) SONG
+title: Ph.D. Candidate at Seoul Nat'l University, advised by Prof. Byung-Gon Chun
 email: wonook@apache.org
 website: wonook.github.io
 
@@ -77,17 +77,38 @@ content:
         sub_title: 2019. USENIX Annual Technical Conference (ATC) ‘19. USENIX Association. ISBN 978-1-939133-03-8.
         description: | # this will include new lines to allow paragraphs
             Youngseok Yang, Jeongyoon Eo, Geon-Woo Kim, Joo Yeon Kim, Sanha Lee, Jangho Seo, <mark>Won Wook Song</mark>, and Byung-Gon Chun.
+        link: https://www.usenix.org/conference/atc19/presentation/yang-youngseok
+        link_text: Link
+        additional_links:
+          - title: paper
+            icon: fab fa-memo
+            url: https://www.usenix.org/system/files/atc19-yang-youngseok.pdf
+          - title: github
+            icon: fab fa-github
+            url: https://github.com/apache/incubator-nemo
       - layout: top
         title: "Automatic System Configuration of Distributed Machine Learning."
         sub_title: 2019. International Conference on Distributed Computing Systems (ICDCS) ‘19. IEEE. DOI https://doi.org/10.1109/ICDCS.2019.00203
         description: | # this will include new lines to allow paragraphs
             Woo-Yeon Lee, Yunseong Lee, Joo Seong Jeong, Gyeong-In Yu, Joo Yeon Kim, Ho Jin Park, Beomyeol Jeon, <mark>Won Wook Song</mark>, Gunhee Kim, Markus Weimer, Brian Cho, Byung-Gon Chun.
+        link: https://ieeexplore.ieee.org/document/8884800/
+        link_text: Link
+        additional_links:
+          - title: paper
+            icon: fab fa-memo
+            url: https://spl.snu.ac.kr/wp-content/uploads/2012/07/eml.pdf
+            https://www.usenix.org/system/files/atc19-yang-youngseok.pdf
       - layout: top
         title: "Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters."
         sub_title: 2017. EuroSys '17. ACM. DOI https://doi.org/10.1145/3064176.3064181
         description: | # this will include new lines to allow paragraphs
             Youngseok Yang, Geon-Woo Kim, <mark>Won Wook Song</mark>, Yunseong Lee, Andrew Chung, Zhengping Qian, Brian Cho, and Byung-Gon Chun.
-
+        link: https://dl.acm.org/doi/10.1145/3064176.3064181
+        link_text: Link
+        additional_links:
+          - title: paper
+            icon: fab fa-memo
+            url: https://spl.snu.ac.kr/wp-content/uploads/2017/11/p575-Yang.pdf
 
   - title: Domestic Publications # Title for the section
     layout: list # Type of content section (list/text)
@@ -130,6 +151,12 @@ content:
     content:
       - layout: top-middle
         title: Running Apache Beam Programs on Apache Nemo
+        link: 
+        # link_text: link
+        sub_title: ApacheCon Asia 2021.
+        caption: 2021
+      - layout: top-middle
+        title: Running Apache Beam Programs on Apache Nemo
         link: https://youtu.be/DKxYE8YWF_o
         # link_text: link
         sub_title: Apache Beam Summit 2019, Berlin, Germany.
@@ -168,7 +195,7 @@ content:
         caption: 2010 - 2013
       - layout: top
         title: American School of Paris, Paris, France
-        sub_title: General Education
+        sub_title: International School
         caption: 2003 - 2009
 
         # quote: >
@@ -177,7 +204,6 @@ content:
           # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -215,6 +241,12 @@ content:
           - Contributing to other Apache projects, such as Apache Beam from 2018.
           - Experience with tools like Apache Maven, JIRA, Git/GitHub, and many more.
       - layout: left
+        title: Microsoft Research Asia
+        sub_title: Research Intern.
+        caption: DEC 2020 - JUNE 2021
+        description: | # this will include new lines to allow paragraphs
+          - Worked with the Network Research Group in MSRA, mentored by Yongqiang Xiong and Wenxue Cheng
+      - layout: left
         title: ButFitSeoul, Seoul, Republic of Korea
         sub_title: Part-time full-stack web developer
         caption: MAY 2018 - AUG. 2020
@@ -245,7 +277,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Due to my experiences across the globe, I happen to be fluent in English and Korean, as well as in French. Alongside my interests in computer systems some of my other interests and hobbies are:
+      Due to my experiences across the globe, I happen to speak fluent English and Korean, as well as adequate French. Alongside my interests in computer systems some of my other interests and hobbies are:
       - Skiing & Snowboarding
       - Tennis
       - Golf
