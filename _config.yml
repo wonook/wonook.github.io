@@ -152,8 +152,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Running Apache Beam Programs on Apache Nemo
-        link: 
+        title: Flexible Optimizations and Efficient Execution of Data Processing on Apache Nemo
+        link: https://apachecon.com/acasia2021/sessions/1140.html
         # link_text: link
         sub_title: ApacheCon Asia 2021.
         caption: 2021
@@ -164,13 +164,13 @@ content:
         sub_title: Apache Beam Summit 2019, Berlin, Germany.
         caption: 2019
       - layout: top-middle
-        title: Fast and Efficient Data Processing with Apache Nemo
+        title: Fast and Efficient Data Processing with Apache Nemo. (Korean)
         link: https://tv.naver.com/v/15151364
         # link_text: link
         sub_title: Naver Tech Talk 2020, Seoul, South Korea.
         caption: 2020
       - layout: top-middle
-        title: A Flexible and an Extensible way of Big Data Processing. (In Korean)
+        title: A Flexible and an Extensible way of Big Data Processing. (Korean)
         link: https://tv.naver.com/v/2293702 
         # link_text: link
         sub_title: Naver DeView 2017, Seoul, South Korea.
