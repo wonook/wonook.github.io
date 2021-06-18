@@ -41,7 +41,7 @@ orcid_username: 0000-0002-8530-2184
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
+gtag: "G-CD8QRK5MDY"
 # google_analytics: "UA-00000000-0"
 
 # About Section
@@ -155,33 +155,33 @@ content:
         title: Flexible Optimizations and Efficient Execution of Data Processing on Apache Nemo
         link: https://apachecon.com/acasia2021/sessions/1140.html
         sub_title: ApacheCon Asia 2021.
-        caption: 2021
+        caption: AUG. 2021
       - layout: top-middle
         title: Running Apache Beam Programs on Apache Nemo
         link: https://youtu.be/DKxYE8YWF_o
         # https://europe2019.beamsummit.org
         sub_title: Apache Beam Summit 2019, Berlin, Germany.
-        caption: 2019
+        caption: JUNE 2019
       - layout: top-middle
         title: Fast and Efficient Data Processing with Apache Nemo. (Korean)
         link: https://tv.naver.com/v/15151364
         sub_title: Naver Tech Talk 2020, Seoul, South Korea.
-        caption: 2020
+        caption: JULY 2020
       - layout: top-middle
         title: A Flexible and an Extensible way of Big Data Processing. (Korean)
         link: https://tv.naver.com/v/2293702 
         sub_title: Naver DeView 2017, Seoul, South Korea.
-        caption: 2017
+        caption: NOV. 2017
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top
-        title: Seoul National University, Seoul, Republic of Korea
+        title: Seoul National University, Republic of Korea
         sub_title: Ph.D. candidate, Computer Science
         caption: 2017 - Present
       - layout: top
-        title: Seoul National University, Seoul, Republic of Korea
+        title: Seoul National University, Republic of Korea
         sub_title: B.S., Computer Science
         caption: 2013 - 2017
       - layout: top
@@ -189,11 +189,11 @@ content:
         sub_title: Exchange student, Informatiques (Computer Science)
         caption: 2015 - 2016
       - layout: top
-        title: Hana Academy Seoul, Seoul, Republic of Korea
+        title: Hana Academy Seoul, Republic of Korea
         sub_title: Honors High School/Secondary Diploma Program
         caption: 2010 - 2013
       - layout: top
-        title: American School of Paris, Paris, France
+        title: American School of Paris, France
         sub_title: International School
         caption: 2003 - 2009
 
@@ -209,7 +209,7 @@ content:
     content:
       - layout: left
         title: Software Platform Lab
-        sub_title: A research intern, and now a PhD. candidate.
+        sub_title: A research intern, and now a Ph.D. candidate.
         caption: MAY 2016 - PRESENT
         # link: github.com/sproogen
         # link_text: Project Website
