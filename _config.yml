@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Won Wook (Wonook) SONG
+name: Won Wook SONG
 title: Ph.D. Candidate at Seoul Nat'l University, advised by Prof. Byung-Gon Chun
 email: wonook@apache.org
 website: wonook.github.io
@@ -66,22 +66,23 @@ content:
         # quote: >
           # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            <mark>Won Wook Song</mark>, Youngseok Yang, Jeongyoon Eo, Jangho Seo, Joo Yeon Kim, Sanha Lee, Gyewon Lee, Taegeon Um, Haeyoon Cho, and Byung-Gon Chun
+            *Won Wook Song*, Youngseok Yang, Jeongyoon Eo, Jangho Seo, Joo Yeon Kim, Sanha Lee, Gyewon Lee, Taegeon Um, Haeyoon Cho, and Byung-Gon Chun
       - layout: top
         title: "Harmony: A Scheduling Framework Optimized for Multiple Distributed Machine Learning Jobs."
         sub_title: 2021. International Conference on Distributed Computing Systems (ICDCS) ‘21. IEEE. 
         description: | # this will include new lines to allow paragraphs
-            Woo-Yeon Lee, Yunseong Lee, <mark>Won Wook Song</mark>, Youngseok Yang, Joo Yeon Kim and Byung-Gon Chun
+            Woo-Yeon Lee, Yunseong Lee, *Won Wook Song*, Youngseok Yang, Joo Yeon Kim and Byung-Gon Chun
       - layout: top
         title: "Apache Nemo: A Framework for Building Distributed Dataflow Optimization Policies."
         sub_title: 2019. USENIX Annual Technical Conference (ATC) ‘19. USENIX Association. ISBN 978-1-939133-03-8.
         description: | # this will include new lines to allow paragraphs
-            Youngseok Yang, Jeongyoon Eo, Geon-Woo Kim, Joo Yeon Kim, Sanha Lee, Jangho Seo, <mark>Won Wook Song</mark>, and Byung-Gon Chun.
-        link: https://www.usenix.org/conference/atc19/presentation/yang-youngseok
-        link_text: Link
+            Youngseok Yang, Jeongyoon Eo, Geon-Woo Kim, Joo Yeon Kim, Sanha Lee, Jangho Seo, *Won Wook Song*, and Byung-Gon Chun.
         additional_links:
+          - title: Link
+            icon: fa fa-paperclip
+            url: https://www.usenix.org/conference/atc19/presentation/yang-youngseok
           - title: paper
-            icon: fab fa-memo
+            icon: fa fa-sticky-note-o
             url: https://www.usenix.org/system/files/atc19-yang-youngseok.pdf
           - title: github
             icon: fab fa-github
@@ -90,24 +91,25 @@ content:
         title: "Automatic System Configuration of Distributed Machine Learning."
         sub_title: 2019. International Conference on Distributed Computing Systems (ICDCS) ‘19. IEEE. DOI https://doi.org/10.1109/ICDCS.2019.00203
         description: | # this will include new lines to allow paragraphs
-            Woo-Yeon Lee, Yunseong Lee, Joo Seong Jeong, Gyeong-In Yu, Joo Yeon Kim, Ho Jin Park, Beomyeol Jeon, <mark>Won Wook Song</mark>, Gunhee Kim, Markus Weimer, Brian Cho, Byung-Gon Chun.
-        link: https://ieeexplore.ieee.org/document/8884800/
-        link_text: Link
+            Woo-Yeon Lee, Yunseong Lee, Joo Seong Jeong, Gyeong-In Yu, Joo Yeon Kim, Ho Jin Park, Beomyeol Jeon, *Won Wook Song*, Gunhee Kim, Markus Weimer, Brian Cho, Byung-Gon Chun.
         additional_links:
+          - title: Link
+            icon: fa fa-paperclip
+            url: https://ieeexplore.ieee.org/document/8884800/
           - title: paper
-            icon: fab fa-memo
+            icon: fa fa-sticky-note-o
             url: https://spl.snu.ac.kr/wp-content/uploads/2012/07/eml.pdf
-            https://www.usenix.org/system/files/atc19-yang-youngseok.pdf
       - layout: top
         title: "Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters."
         sub_title: 2017. EuroSys '17. ACM. DOI https://doi.org/10.1145/3064176.3064181
         description: | # this will include new lines to allow paragraphs
-            Youngseok Yang, Geon-Woo Kim, <mark>Won Wook Song</mark>, Yunseong Lee, Andrew Chung, Zhengping Qian, Brian Cho, and Byung-Gon Chun.
-        link: https://dl.acm.org/doi/10.1145/3064176.3064181
-        link_text: Link
+            Youngseok Yang, Geon-Woo Kim, *Won Wook Song*, Yunseong Lee, Andrew Chung, Zhengping Qian, Brian Cho, and Byung-Gon Chun.
         additional_links:
+          - title: Link
+            icon: fa fa-paperclip
+            url: https://dl.acm.org/doi/10.1145/3064176.3064181
           - title: paper
-            icon: fab fa-memo
+            icon: fa fa-sticky-note-o
             url: https://spl.snu.ac.kr/wp-content/uploads/2017/11/p575-Yang.pdf
 
   - title: Domestic Publications # Title for the section
@@ -117,34 +119,34 @@ content:
         title: "Tuning the XGBoost Library for Different Distinguishment Problems."
         sub_title: 2020. KCC (Korea Computer Congress)
         description: | # this will include new lines to allow paragraphs
-            <mark>Won Wook Song</mark>, and Byung-Gon Chun.
+            *Won Wook Song*, and Byung-Gon Chun.
       - layout: top
         title: "Analyzing the Correctness of Estimated Task Time via Sampling on Distributed Data Processing System."
         sub_title: 2020. KCC (Korea Computer Congress).
         description: | # this will include new lines to allow paragraphs
-            Hwarim Hyun, <mark>Won Wook Song</mark>, and Byung-Gon Chun.
+            Hwarim Hyun, *Won Wook Song*, and Byung-Gon Chun.
       - layout: top
         title: "Performance Analysis on Varying Parallelism for Different Distributed Data Processing  Workloads."
         sub_title: 2019. KSC (Korea Software Congress).
         description: | # this will include new lines to allow paragraphs
-            <mark>Won Wook Song</mark>, and Byung-Gon Chun.
+            *Won Wook Song*, and Byung-Gon Chun.
       - layout: top
         title: "Effectiveness of using off-heap memory in Java Virtual Machine-based stream processing system."
-        caption: Best papers award
         sub_title: 2019. KCC (Korea Computer Congress).
         description: | # this will include new lines to allow paragraphs
-            Jangho Seo, <mark>Won Wook Song</mark>, and Byung-Gon Chun.
+            Jangho Seo, *Won Wook Song*, and Byung-Gon Chun.
+            Best papers award
       - layout: top
         title: "Our Experiences on Creating an Apache Beam Runner for Distributed Data Processing."
-        caption: Best papers award
         sub_title: 2018. KSC (Korea Software Congress).
         description: | # this will include new lines to allow paragraphs
-            <mark>Won Wook Song</mark>, and Byung-Gon Chun.
+            *Won Wook Song*, and Byung-Gon Chun.
+            Best papers award
       - layout: top
         title: "Comparison of Programming Interfaces of Distributed Data Processing Systems."
         sub_title: 2018. KCC (Korea Computer Congress).
         description: | # this will include new lines to allow paragraphs
-            <mark>Won Wook Song</mark>, and Byung-Gon Chun.
+            *Won Wook Song*, and Byung-Gon Chun.
 
   - title: Talks # Title for the section
     layout: list # Type of content section (list/text)
@@ -209,7 +211,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Software Platform Lab,  Seoul, Republic of Korea
+        title: Software Platform Lab
         sub_title: A research intern, and now a PhD. candidate.
         caption: MAY 2016 - PRESENT
         # link: github.com/sproogen
@@ -247,7 +249,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Worked with the Network Research Group in MSRA, mentored by Yongqiang Xiong and Wenxue Cheng
       - layout: left
-        title: ButFitSeoul, Seoul, Republic of Korea
+        title: ButFitSeoul
         sub_title: Part-time full-stack web developer
         caption: MAY 2018 - AUG. 2020
         link: https://www.butfitseoul.com
@@ -257,8 +259,8 @@ content:
           - Used Django, VueJS, Fabric, Unicorn, and cooperated with web designers.
           - Used Git, GitHub, AWS, GCP (Compute/EC2, RDBMS, Storage/S3, etc.)
       - layout: left
-        title: ArtMyn, Lausanne, Switzerland
-        sub_title: Part time web/server developer
+        title: ArtMyn
+        sub_title: Part time web/server developer in Lausanne, Switzerland
         caption: NOV. 2015 - DEC. 2015
         link: https://www.artmyn.com
         # link_text: Website
