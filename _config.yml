@@ -61,17 +61,37 @@ content:
         title: "Apache Nemo: A Framework for Optimizing Distributed Data Processing."
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: 2021. Transactions on Computer Systems (TOCS). ACM.
+        sub_title: 2021. Transactions on Computer Systems (TOCS). ACM. DOI https://doi.org/10.1145/3468144
         # caption: November 2017 - Present
         # quote: >
           # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             *Won Wook Song*, Youngseok Yang, Jeongyoon Eo, Jangho Seo, Joo Yeon Kim, Sanha Lee, Gyewon Lee, Taegeon Um, Haeyoon Cho, and Byung-Gon Chun
+        additional_links:
+          # - title: Link
+            # icon: fa fa-paperclip
+            # url: 
+          # - title: paper
+            # icon: fa fa-sticky-note-o
+            # url: 
+          - title: github
+            icon: fab fa-github
+            url: https://github.com/apache/incubator-nemo
       - layout: top
         title: "Harmony: A Scheduling Framework Optimized for Multiple Distributed Machine Learning Jobs."
         sub_title: 2021. International Conference on Distributed Computing Systems (ICDCS) ‘21. IEEE. 
         description: | # this will include new lines to allow paragraphs
             Woo-Yeon Lee, Yunseong Lee, *Won Wook Song*, Youngseok Yang, Joo Yeon Kim and Byung-Gon Chun
+        additional_links:
+          # - title: Link
+            # icon: fa fa-paperclip
+            # url: 
+          # - title: paper
+            # icon: fa fa-sticky-note-o
+            # url: 
+          - title: github
+            icon: fab fa-github
+            url: https://github.com/snuspl/harmony
       - layout: top
         title: "Apache Nemo: A Framework for Building Distributed Dataflow Optimization Policies."
         sub_title: 2019. USENIX Annual Technical Conference (ATC) ‘19. USENIX Association. ISBN 978-1-939133-03-8.
@@ -99,6 +119,9 @@ content:
           - title: paper
             icon: fa fa-sticky-note-o
             url: https://spl.snu.ac.kr/wp-content/uploads/2012/07/eml.pdf
+          - title: github
+            icon: fab fa-github
+            url: https://github.com/snuspl/cruise
       - layout: top
         title: "Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters."
         sub_title: 2017. EuroSys '17. ACM. DOI https://doi.org/10.1145/3064176.3064181
@@ -179,7 +202,7 @@ content:
       - layout: top
         title: Seoul National University, Republic of Korea
         sub_title: Ph.D. candidate, Computer Science
-        caption: 2017 - Present
+        caption: 2017 - PRESENT
       - layout: top
         title: Seoul National University, Republic of Korea
         sub_title: B.S., Computer Science
