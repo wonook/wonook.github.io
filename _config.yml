@@ -58,7 +58,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
-        title: "Apache Nemo: A Framework for Optimizing Distributed Data Processing."
+        title: "Apache Nemo: A Framework for Optimizing Distributed Data Processing"
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: 2021. Transactions on Computer Systems (TOCS). ACM. DOI https://doi.org/10.1145/3468144
@@ -78,7 +78,7 @@ content:
             icon: fab fa-github
             url: https://github.com/apache/incubator-nemo
       - layout: top
-        title: "Harmony: A Scheduling Framework Optimized for Multiple Distributed Machine Learning Jobs."
+        title: "Harmony: A Scheduling Framework Optimized for Multiple Distributed Machine Learning Jobs"
         sub_title: 2021. International Conference on Distributed Computing Systems (ICDCS) ‘21. IEEE. 
         description: | # this will include new lines to allow paragraphs
             Woo-Yeon Lee, Yunseong Lee, *Won Wook Song*, Youngseok Yang, Joo Yeon Kim and Byung-Gon Chun
@@ -93,10 +93,10 @@ content:
             icon: fab fa-github
             url: https://github.com/snuspl/harmony
       - layout: top
-        title: "Apache Nemo: A Framework for Building Distributed Dataflow Optimization Policies."
+        title: "Apache Nemo: A Framework for Building Distributed Dataflow Optimization Policies"
         link: https://www.usenix.org/system/files/atc19-yang-youngseok.pdf
         link_text: Click for full text
-        sub_title: 2019. USENIX Annual Technical Conference (ATC) ‘19. USENIX Association. ISBN 978-1-939133-03-8.
+        sub_title: 2019. USENIX Annual Technical Conference (ATC) ‘19. USENIX Association. ISBN 978-1-939133-03-8. DOI https://doi.org/10.5555/3358807.3358824
         description: | # this will include new lines to allow paragraphs
             Youngseok Yang, Jeongyoon Eo, Geon-Woo Kim, Joo Yeon Kim, Sanha Lee, Jangho Seo, *Won Wook Song*, and Byung-Gon Chun.
         additional_links:
@@ -110,10 +110,10 @@ content:
             icon: fab fa-github
             url: https://github.com/apache/incubator-nemo
       - layout: top
-        title: "Automatic System Configuration of Distributed Machine Learning."
+        title: "Automating System Configuration of Distributed Machine Learning"
         link: https://spl.snu.ac.kr/wp-content/uploads/2012/07/eml.pdf
         link_text: Click for full text
-        sub_title: 2019. International Conference on Distributed Computing Systems (ICDCS) ‘19. IEEE. DOI https://doi.org/10.1109/ICDCS.2019.00203
+        sub_title: 2019. International Conference on Distributed Computing Systems (ICDCS) ‘19. IEEE. ISBN 978-1-7281-2520-6. DOI https://doi.org/10.1109/ICDCS.2019.00203
         description: | # this will include new lines to allow paragraphs
             Woo-Yeon Lee, Yunseong Lee, Joo Seong Jeong, Gyeong-In Yu, Joo Yeon Kim, Ho Jin Park, Beomyeol Jeon, *Won Wook Song*, Gunhee Kim, Markus Weimer, Brian Cho, Byung-Gon Chun.
         additional_links:
@@ -127,10 +127,10 @@ content:
             icon: fab fa-github
             url: https://github.com/snuspl/cruise
       - layout: top
-        title: "Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters."
+        title: "Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters"
         link: https://spl.snu.ac.kr/wp-content/uploads/2017/11/p575-Yang.pdf
         link_text: Click for full text
-        sub_title: 2017. EuroSys '17. ACM. DOI https://doi.org/10.1145/3064176.3064181
+        sub_title: 2017. EuroSys '17. ACM. ISBN 978-1-4503-4938-3. DOI https://doi.org/10.1145/3064176.3064181
         description: | # this will include new lines to allow paragraphs
             Youngseok Yang, Geon-Woo Kim, *Won Wook Song*, Yunseong Lee, Andrew Chung, Zhengping Qian, Brian Cho, and Byung-Gon Chun.
         additional_links:
