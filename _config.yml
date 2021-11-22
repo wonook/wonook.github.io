@@ -323,7 +323,7 @@ content:
       - layout: left
         title: ButFitSeoul
         sub_title: Part-time full-stack web developer
-        caption: MAY 2018 - AUG. 2020
+        # caption: MAY 2018 - AUG. 2020
         link: https://www.butfitseoul.com
         # link_text: Website
         description: | # this will include new lines to allow paragraphs
