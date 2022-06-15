@@ -61,7 +61,7 @@ content:
         title: "SWAN: WAN-aware Stream Processing on Geographically-distributed Clusters"
         link: https://apsys22.hotcrp.com/doc/apsys22-paper20.pdf
         link_text: Link is upcoming.
-        sub_title: 2022. Asia-Pacific Workshop on Systems (APSys). ACM SIGOPS. DOI https://doi.org/
+        sub_title: To appear in 2022. Asia-Pacific Workshop on Systems (APSys). ACM SIGOPS. # DOI https://doi.org/
         # caption: November 2017 - Present
         # quote: >
           # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -170,7 +170,7 @@ content:
         title: "Analyzing the Effectiveness of Skew Handling Strategy Based on Fine-Grained Splitting and Merging on Distributed Data Processing System."
         link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11036174
         link_text: Click for full text
-        sub_title: 2021. KCC (Korea Computer Congress)
+        sub_title: 2021. KSC (Korea Software Congress)
         description: | # this will include new lines to allow paragraphs
             Hwarim Hyun, *Won Wook Song*, and Byung-Gon Chun.
       - layout: top
