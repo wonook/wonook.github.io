@@ -222,6 +222,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: Building a Distributed System for Batch & Stream Processing
+        link: Link to be updated
+        sub_title: Spotify Engineering Conference 2022 (SpEC 2022).
+        caption: MAY 2022
+      - layout: top-middle
         title: Flexible Optimizations and Efficient Execution of Data Processing on Apache Nemo
         link: https://youtu.be/lFCuiL9ZRWk
         sub_title: ApacheCon Asia 2021.
@@ -249,7 +254,7 @@ content:
       - layout: top-middle
         title: Seoul National University, Republic of Korea 🇰🇷
         sub_title: Ph.D. candidate, Computer Science
-        caption: 2017 - PRESENT
+        caption: 2017 - 2023
         description: | # logo
           <div style="text-align: center;">
           <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Seoul_national_university_emblem.svg/1024px-Seoul_national_university_emblem.svg.png" alt="SNU logo" height="85"/> 
@@ -303,7 +308,7 @@ content:
       - layout: left
         title: Software Platform Lab
         sub_title: Started as a research intern, and now a Ph.D. candidate.
-        caption: MAY 2016 - PRESENT
+        caption: MAY 2016 - SEPT 2023
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
