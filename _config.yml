@@ -59,21 +59,21 @@ content:
     content:
       - layout: top
         title: "SWAN: WAN-aware Stream Processing on Geographically-distributed Clusters"
-        link: https://apsys22.hotcrp.com/doc/apsys22-paper20.pdf
-        link_text: Link is upcoming.
-        sub_title: To appear in 2022. Asia-Pacific Workshop on Systems (APSys). ACM SIGOPS. # DOI https://doi.org/
+        link: https://dl.acm.org/doi/pdf/10.1145/3546591.3547524
+        link_text: To appear in August 2022
+        sub_title: 2022. APSys (Asia-Pacific Workshop on Systems). ACM SIGOPS. ISBN 978-1-4503-9441-3. DOI https://doi.org/10.1145/3546591.3547524
         # caption: November 2017 - Present
         # quote: >
           # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             *Won Wook Song*, Myeongjae Jeon, and Byung-Gon Chun
         additional_links:
-          # - title: Link
-          #   icon: fa fa-paperclip
-          #   url: https://doi.org/10.1145/3468144
-          # - title: paper
-          #   icon: fa fa-sticky-note-o
-          #   url: https://dl.acm.org/doi/pdf/10.1145/3468144
+          - title: Link
+            icon: fa fa-paperclip
+            url: https://doi.org/10.1145/3546591.3547524
+          - title: paper
+            icon: fa fa-sticky-note-o
+            url: https://dl.acm.org/doi/pdf/10.1145/3546591.3547524
           # - title: github
           #   icon: fab fa-github
           #   url: https://github.com/apache/incubator-nemo
@@ -402,8 +402,8 @@ content:
       - My Italian motorbike 🛵
       - Photography 📷
       - Travelling 🎒✈️
-      - Cocktails & Cognac & Wine & Whiskey 🍸🍷🥃
-      - Doing my interior & Building homes and furnitures 🔨
+      - Fermented & distilled beverages 🍸🍷🥃
+      - Interior designing 🔨
       - .. and a lot more
 
 # Footer
