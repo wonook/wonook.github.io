@@ -60,7 +60,7 @@ content:
       - layout: top
         title: "SWAN: WAN-aware Stream Processing on Geographically-distributed Clusters"
         link: https://dl.acm.org/doi/pdf/10.1145/3546591.3547524
-        link_text: To appear in August 2022
+        link_text: Click for full text
         sub_title: 2022. APSys (Asia-Pacific Workshop on Systems). ACM SIGOPS. ISBN 978-1-4503-9441-3. DOI https://doi.org/10.1145/3546591.3547524
         # caption: November 2017 - Present
         # quote: >
