@@ -133,7 +133,7 @@ content:
             url: https://github.com/apache/incubator-nemo
       - layout: top
         title: "Automating System Configuration of Distributed Machine Learning"
-        link: https://spl.snu.ac.kr/wp-content/uploads/2012/07/eml.pdf
+        link: https://snuspl.github.io/assets/paper/eml.pdf
         link_text: Click for full text
         sub_title: 2019. International Conference on Distributed Computing Systems (ICDCS) ‘19. IEEE. ISBN 978-1-7281-2520-6. DOI https://doi.org/10.1109/ICDCS.2019.00203
         description: | # this will include new lines to allow paragraphs
@@ -144,13 +144,13 @@ content:
             url: https://ieeexplore.ieee.org/document/8884800/
           - title: paper
             icon: fa fa-sticky-note-o
-            url: https://spl.snu.ac.kr/wp-content/uploads/2012/07/eml.pdf
+            url: https://snuspl.github.io/assets/paper/eml.pdf
           - title: github
             icon: fab fa-github
             url: https://github.com/snuspl/cruise
       - layout: top
         title: "Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters"
-        link: https://spl.snu.ac.kr/wp-content/uploads/2017/11/p575-Yang.pdf
+        link: https://snuspl.github.io/assets/paper/p575-Yang.pdf
         link_text: Click for full text
         sub_title: 2017. EuroSys '17. ACM. ISBN 978-1-4503-4938-3. DOI https://doi.org/10.1145/3064176.3064181
         description: | # this will include new lines to allow paragraphs
@@ -161,7 +161,7 @@ content:
             url: https://dl.acm.org/doi/10.1145/3064176.3064181
           - title: paper
             icon: fa fa-sticky-note-o
-            url: https://spl.snu.ac.kr/wp-content/uploads/2017/11/p575-Yang.pdf
+            url: https://snuspl.github.io/assets/paper/p575-Yang.pdf
 
   - title: Domestic Publications # Title for the section
     layout: list # Type of content section (list/text)
