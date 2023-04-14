@@ -328,8 +328,8 @@ content:
     content:
       - layout: left
         title: Software Platform Lab
-        sub_title: Started as a research intern, and now a Ph.D. candidate.
-        caption: MAY 2016 - SEPT 2023
+        sub_title: A research intern and eventually a PhD. candidate.
+        caption: MAY 2016 - AUG 2023
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
@@ -345,11 +345,13 @@ content:
           <div style="text-align: center;">
           <img src="https://avatars.githubusercontent.com/u/6446990?s=200&v=4" alt="SPL logo" height="120"/>
           </div>
-          - Published a paper on Pado, a data processing system for harnessing transient resources.
+          - Published a paper, Sponge, an adaptive and scalable stream processing system leveraging benefits of powerful stable VMs and fast-scaling serverless frameworks.
+          - Published a paper, SWAN, a stream processing system that adaptively utilizes optimal network connections under globally distributed computing clusters.
+          - Published a paper, Pado, a data processing system for harnessing transient resources.
           - Currently working on the Apache Nemo incubator project.
+          - Published a paper for the Apache Nemo project that builds dataflow optimization policies, as well as a journal paper with supplementary materials
           - Published a paper, Cruise, for automatically adjusting system configurations for distributed ML jobs.
           - Published a paper, Harmony, a scheduling framework for optimizing the execution of multiple distributed ML jobs.
-          - Published a paper for the Apache Nemo project that builds dataflow optimization policies, as well as a journal paper with supplementary materials
           - Currently applying machine learning techniques to optimize the execution of data processing applications on Apache Nemo.
       - layout: left
         title: Apache Software Foundation
@@ -359,10 +361,11 @@ content:
           <div style="text-align: center;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/320px-Apache_Software_Foundation_Logo_%282016%29.svg.png" alt="apache logo" height="120"/>
           </div>
-          - Primary committer and a PMC member on the Apache Nemo incubator project.
-          - Accepted as a Google Summer of Code student developer for the Apache REEF project and finished the development of a ssh-standalone mode for running REEF in 2016.
-          - Participated in the Apache Nemo project as a GSoC mentor in 2017, 2018, 2020, and 2021.
-          - Contributing to other Apache projects, such as Apache Beam since 2018.
+          - Primary committer and PMC for the Apache Nemo incubator project.
+          - Participated as a GSoC mentor in 2017, 2018, 2020, 2021, 2022.
+          - Contributing to other Apache projects, such as Apache Beam from 2018.
+          - Experiences with open source contribution, and community activities such as preparing and launching releases.
+          - Previously a Google Summer of Code student developer for the Apache REEF project and finished the development of a ssh-standalone mode for running REEF in 2016.
           - Experience with tools like Apache Maven, JIRA, Git/GitHub, and many more.
       - layout: left
         title: Microsoft Research Asia
@@ -373,9 +376,10 @@ content:
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/320px-Microsoft_logo_%282012%29.svg.png" alt="MS logo" height="60"/>
           </div>
           - Worked with the Network Research Group in MSRA, mentored by Yongqiang Xiong and Wenxue Cheng
+          - Worked with OpenNetLab: open platform for RL-based congestion control for real-time communication, based on the OpenAI/gym library.
       - layout: left
         title: ButFitSeoul
-        sub_title: Part-time full-stack web developer
+        sub_title: Full-stack web developer
         # caption: MAY 2018 - AUG. 2020
         link: https://www.butfitseoul.com
         # link_text: Website
@@ -383,7 +387,7 @@ content:
           <div style="text-align: center;">
           <img src="https://www.filmmakers.co.kr/files/member_extra_info/profile_image/061/765/008/8765061.png?20200723134822" alt="butfit logo" height="60"/>
           </div>
-          - Part of the team running the ButFitSeoul service, a platform for group exercise workout programs, with thousands of participants.
+          - Part of the start-up team running the ButFitSeoul service, a platform for gathering people for group exercise workout programs, with many thousands of participants.
           - Used Django, VueJS, Fabric, Unicorn, and cooperated with web designers.
           - Used Git, GitHub, AWS, GCP (Compute/EC2, RDBMS, Storage/S3, etc.)
       - layout: left
@@ -397,6 +401,7 @@ content:
           <img src="data:image/png;base64,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" alt="artmyn logo" height="115"/>
           </div>
           - Used Django. Took care of the server-side materials (deployment and backend) for the start-up located in EPFL, Lausanne.
+          - See https://www.artmyn.com
       - layout: left
         title: Systers, Anita Borg Institute
         sub_title: GSoC student developer
@@ -407,8 +412,19 @@ content:
           </div>
           - Accepted as a student developer for the Google Summer of code project on a Rails web application.
           - Used Rails, PostgreSQL, ReactJS, minitest-rails, Capistrano, Passenger.
-          - Used Slack, Travis CI, Git/GitHub for communication.
-          - Experience with team members scattered all around the globe (Asia, America, Europe).
+          - Used Slack, Travis CI, Git/GitHub, Agile for communication, CI, and development.
+          - Experience with team members scattered around the globe (Asia, America, and Europe).
+      - layout: left
+        title: YelloMobile
+        sub_title: Full-stack web developer
+        caption: JAN. 2015 - APRIL 2015
+        description: | # this will include new lines to allow paragraphs
+          <div style="text-align: center;">
+          <img src="https://namu.wiki/jump/rdWnv590JLcb19LlVj6p579coky6VwWIZCb8HPyOXmv12DxoBMxFciEMiYPvKvBVSetMuAZ10R%2FQkYz79CupDg%3D%3D" alt="YelloMobile logo" height="60"/>
+          </div>
+          - Part of the team running the Dieter app, once ranked 4th on the health category in Google Play Market in Korea, with over 1.5 million users.
+          - Used Rails, AngularJS, Capistrano, Unicorn, and cooperated with Android and iOS developers, as well as with web designers.
+          - Used Git, GitHub, AWS (EC2, RDBMS, Load Balancing, CloudWatch and Route 53).
 
   - title: A Little More About Me
     layout: text
