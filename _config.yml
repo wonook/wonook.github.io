@@ -222,16 +222,16 @@ content:
         link_text: Click for full text
         sub_title: 2019. KCC (Korea Computer Congress).
         description: | # this will include new lines to allow paragraphs
-            Jangho Seo, *Won Wook Song*, and Byung-Gon Chun.
-            Best papers award
+            Jangho Seo, *Won Wook Song*, and Byung-Gon Chun.  
+            *Best papers award!*
       - layout: top
         title: "Our Experiences on Creating an Apache Beam Runner for Distributed Data Processing."
         link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07613700
         link_text: Click for full text
         sub_title: 2018. KSC (Korea Software Congress).
         description: | # this will include new lines to allow paragraphs
-            *Won Wook Song*, and Byung-Gon Chun.
-            Best papers award
+            *Won Wook Song*, and Byung-Gon Chun.  
+            *Best papers award!*
       - layout: top
         title: "Comparison of Programming Interfaces of Distributed Data Processing Systems."
         link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07503452
