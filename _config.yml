@@ -84,7 +84,7 @@ content:
         title: "SWAN: WAN-aware Stream Processing on Geographically-distributed Clusters"
         link: https://dl.acm.org/doi/pdf/10.1145/3546591.3547524
         link_text: Click for full text
-        sub_title: 2022. APSys (Asia-Pacific Workshop on Systems). ACM SIGOPS. ISBN 978-1-4503-9441-3. DOI [https://doi.org/10.1145/3546591.3547524](https://doi.org/10.1145/3546591.3547524)
+        sub_title: 2022. APSys (Asia-Pacific Workshop on Systems). ACM SIGOPS. ISBN 978-1-4503-9441-3. DOI https://doi.org/10.1145/3546591.3547524
         # caption: November 2017 - Present
         # quote: >
           # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -104,7 +104,7 @@ content:
         title: "Apache Nemo: A Framework for Optimizing Distributed Data Processing"
         link: https://dl.acm.org/doi/pdf/10.1145/3468144
         link_text: Click for full text
-        sub_title: 2021. Transactions on Computer Systems (TOCS). ACM. DOI [https://doi.org/10.1145/3468144](https://doi.org/10.1145/3468144)
+        sub_title: 2021. Transactions on Computer Systems (TOCS). ACM. DOI https://doi.org/10.1145/3468144
         # caption: November 2017 - Present
         # quote: >
           # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -124,7 +124,7 @@ content:
         title: "Harmony: A Scheduling Framework Optimized for Multiple Distributed Machine Learning Jobs"
         link: https://ieeexplore.ieee.org/document/9546495
         link_text: Click for full text
-        sub_title: 2021. International Conference on Distributed Computing Systems (ICDCS) ‘21. IEEE. DOI [https://doi.org/10.1109/ICDCS51616.2021.00085](https://doi.org/10.1109/ICDCS51616.2021.00085)
+        sub_title: 2021. International Conference on Distributed Computing Systems (ICDCS) ‘21. IEEE. DOI https://doi.org/10.1109/ICDCS51616.2021.00085
         description: | # this will include new lines to allow paragraphs
             Woo-Yeon Lee, Yunseong Lee, *Won Wook Song*, Youngseok Yang, Joo Yeon Kim and Byung-Gon Chun
         additional_links:
@@ -141,7 +141,7 @@ content:
         title: "Apache Nemo: A Framework for Building Distributed Dataflow Optimization Policies"
         link: https://www.usenix.org/system/files/atc19-yang-youngseok.pdf
         link_text: Click for full text
-        sub_title: 2019. USENIX Annual Technical Conference (ATC) ‘19. USENIX Association. ISBN 978-1-939133-03-8. DOI [https://dl.acm.org/doi/10.5555/3358807.3358824](https://dl.acm.org/doi/10.5555/3358807.3358824)
+        sub_title: 2019. USENIX Annual Technical Conference (ATC) ‘19. USENIX Association. ISBN 978-1-939133-03-8. DOI https://dl.acm.org/doi/10.5555/3358807.3358824
         description: | # this will include new lines to allow paragraphs
             Youngseok Yang, Jeongyoon Eo, Geon-Woo Kim, Joo Yeon Kim, Sanha Lee, Jangho Seo, *Won Wook Song*, and Byung-Gon Chun.
         additional_links:
@@ -158,7 +158,7 @@ content:
         title: "Automating System Configuration of Distributed Machine Learning"
         link: https://snuspl.github.io/assets/paper/eml.pdf
         link_text: Click for full text
-        sub_title: 2019. International Conference on Distributed Computing Systems (ICDCS) ‘19. IEEE. ISBN 978-1-7281-2520-6. DOI [https://doi.org/10.1109/ICDCS.2019.00203](https://doi.org/10.1109/ICDCS.2019.00203)
+        sub_title: 2019. International Conference on Distributed Computing Systems (ICDCS) ‘19. IEEE. ISBN 978-1-7281-2520-6. DOI https://doi.org/10.1109/ICDCS.2019.00203
         description: | # this will include new lines to allow paragraphs
             Woo-Yeon Lee, Yunseong Lee, Joo Seong Jeong, Gyeong-In Yu, Joo Yeon Kim, Ho Jin Park, Beomyeol Jeon, *Won Wook Song*, Gunhee Kim, Markus Weimer, Brian Cho, Byung-Gon Chun.
         additional_links:
@@ -175,7 +175,7 @@ content:
         title: "Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters"
         link: https://snuspl.github.io/assets/paper/p575-Yang.pdf
         link_text: Click for full text
-        sub_title: 2017. EuroSys '17. ACM. ISBN 978-1-4503-4938-3. DOI [https://doi.org/10.1145/3064176.3064181](https://doi.org/10.1145/3064176.3064181)
+        sub_title: 2017. EuroSys '17. ACM. ISBN 978-1-4503-4938-3. DOI https://doi.org/10.1145/3064176.3064181
         description: | # this will include new lines to allow paragraphs
             Youngseok Yang, Geon-Woo Kim, *Won Wook Song*, Yunseong Lee, Andrew Chung, Zhengping Qian, Brian Cho, and Byung-Gon Chun.
         additional_links:
