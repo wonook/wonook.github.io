@@ -49,7 +49,7 @@ gtag: "G-CD8QRK5MDY"
 # about_title: About Me
 about_profile_image: images/wonook2_1x1_.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  <img src="https://img.shields.io/badge/Interests-Distributed Systems, Clouds, Big Data, Data Processing, Machine Learning-dodgerblue" />  <img src="https://img.shields.io/badge/Languages-English, Korean, French-dodgerblue" />  <a href="mailto:wonook@apache.org"><img src="https://img.shields.io/badge/I'm looking for a job!-critical" /></a> <br>
+  <img src="https://img.shields.io/badge/Interests-Distributed Systems, Clouds, Big Data, Data Processing, Machine Learning-dodgerblue" />  <img src="https://img.shields.io/badge/Languages-English, Korean, French-dodgerblue" />  <a href="mailto:wonook@apache.org"><img src="https://img.shields.io/badge/I'm looking for a job!-critical" /></a> <br><br>
   Hi, my name's Won Wook (pronounced as Wonook, written as 원욱) and I'm a Ph.D. candidate in Computer Science at Seoul National University, advised by Professor Byung-Gon Chun.  
   I'm about to graduate in August 2023, and my research interests reside in distributed systems for efficiently processing big data and machine learning workloads.
 
@@ -280,6 +280,7 @@ content:
         caption: 2017 - 2023
         description: | # logo
           <div style="text-align: center;">
+          <span class="h5">Dissertation: Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems</span> <br>
           <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Seoul_national_university_emblem.svg/1024px-Seoul_national_university_emblem.svg.png" alt="SNU logo" height="85"/> 
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Seoul_national_university_logotype.svg/1920px-Seoul_national_university_logotype.svg.png" alt="SNU logo" height="60"/>
           </div>
