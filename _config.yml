@@ -348,6 +348,7 @@ content:
           <div style="text-align: center;">
           <img src="https://avatars.githubusercontent.com/u/6446990?s=200&v=4" alt="SPL logo" height="120"/>
           </div>
+          - Dissertation: Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems
           - Published a paper, Sponge, an adaptive and scalable stream processing system leveraging benefits of powerful stable VMs and fast-scaling serverless frameworks.
           - Published a paper, SWAN, a stream processing system that adaptively utilizes optimal network connections under globally distributed computing clusters.
           - Published a paper, Pado, a data processing system for harnessing transient resources.
