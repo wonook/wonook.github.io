@@ -62,8 +62,8 @@ content:
     content:
       - layout: top
         title: "Sponge: Fast Reactive Scaling for Stream Processing with Serverless Frameworks"
-        # link: 
-        # link_text: Click for full text
+        link: https://www.usenix.org/conference/atc23/presentation/songwonwook
+        link_text: Click for full text
         sub_title: 2023. To appear in USENIX Annual Technical Conference (ATC) ‘23. USENIX Association.
         # caption: November 2017 - Present
         # quote: >
@@ -71,15 +71,15 @@ content:
         description: | # this will include new lines to allow paragraphs
             *Won Wook Song*, Taegeon Um, Sameh Elnikety, Myeongjae Jeon, and Byung-Gon Chun
         additional_links:
-          # - title: Link
-          #   icon: fa fa-paperclip
-          #   url: https://doi.org/10.1145/3546591.3547524
-          # - title: paper
-          #   icon: fa fa-sticky-note-o
-          #   url: https://dl.acm.org/doi/pdf/10.1145/3546591.3547524
-          # - title: github
-          #   icon: fab fa-github
-          #   url: https://github.com/apache/incubator-nemo
+          - title: Link
+            icon: fa fa-paperclip
+            url: https://www.usenix.org/conference/atc23/presentation/songwonwook
+          - title: paper
+            icon: fa fa-sticky-note-o
+            url: https://www.usenix.org/conference/atc23/presentation/songwonwook
+          - title: github
+            icon: fab fa-github
+            url: https://github.com/apache/incubator-nemo
       - layout: top
         title: "SWAN: WAN-aware Stream Processing on Geographically-distributed Clusters"
         link: https://dl.acm.org/doi/pdf/10.1145/3546591.3547524
@@ -97,9 +97,9 @@ content:
           - title: paper
             icon: fa fa-sticky-note-o
             url: https://dl.acm.org/doi/pdf/10.1145/3546591.3547524
-          # - title: github
-          #   icon: fab fa-github
-          #   url: https://github.com/apache/incubator-nemo
+          - title: github
+            icon: fab fa-github
+            url: https://github.com/apache/incubator-nemo
       - layout: top
         title: "Apache Nemo: A Framework for Optimizing Distributed Data Processing"
         link: https://dl.acm.org/doi/pdf/10.1145/3468144
