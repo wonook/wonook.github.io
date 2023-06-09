@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Won Wook SONG
-title: Ph.D. Candidate at Seoul National University, advised by Prof. Byung-Gon Chun
+title: Ph.D. in Computer Science
 email: wonook@apache.org
 # phone: Your phone number (optional)
 website: wonook.github.io
@@ -50,8 +50,8 @@ gtag: "G-CD8QRK5MDY"
 about_profile_image: images/wonook2_1x1_.jpeg
 about_content: | # this will include new lines to allow paragraphs
   <img src="https://img.shields.io/badge/Interests-Distributed Systems, Clouds, Big Data, Data Processing, Machine Learning-dodgerblue" />  <img src="https://img.shields.io/badge/Languages-English, Korean, French-dodgerblue" />  <a href="mailto:wonook@apache.org"><img src="https://img.shields.io/badge/I'm looking for a job!-critical" /></a> <br><br>
-  Hi, my name's Won Wook (pronounced as Wonook, written as 원욱) and I'm a Ph.D. candidate in Computer Science at Seoul National University, advised by Professor Byung-Gon Chun.  
-  I'm about to graduate in August 2023, and my research interests reside in distributed systems for efficiently processing big data and machine learning workloads.
+  Hi, I'm Won Wook (pronounced as Wonook) and my research interests reside in distributed systems for efficiently processing big data and machine learning workloads.  
+  I finished my Ph.D. in computer science at <a href="https://www.snu.ac.kr">Seoul National University</a> in 2023, under the supervision of <a href="https://bgchun.github.io">Professor Byung-Gon Chun</a>. I also received my B.E. degree in computer science from <a href="https://www.snu.ac.kr">Seoul National University</a> in 2017.
 
 # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
@@ -61,7 +61,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
-        title: "Sponge: Fast Reactive Scaling for Stream Processing with Serverless Frameworks"
+        title: "*Sponge: Fast Reactive Scaling for Stream Processing with Serverless Frameworks"
         link: https://www.usenix.org/conference/atc23/presentation/songwonwook
         link_text: Click for full text
         sub_title: 2023. To appear in USENIX Annual Technical Conference (ATC) ‘23. USENIX Association.
@@ -101,7 +101,7 @@ content:
             icon: fab fa-github
             url: https://github.com/apache/incubator-nemo
       - layout: top
-        title: "Apache Nemo: A Framework for Optimizing Distributed Data Processing"
+        title: "*Apache Nemo: A Framework for Optimizing Distributed Data Processing"
         link: https://dl.acm.org/doi/pdf/10.1145/3468144
         link_text: Click for full text
         sub_title: 2021. Transactions on Computer Systems (TOCS). ACM. DOI https://doi.org/10.1145/3468144
@@ -354,7 +354,7 @@ content:
           <div style="text-align: center;">
           <img src="https://avatars.githubusercontent.com/u/6446990?s=200&v=4" alt="SPL logo" height="120"/>
           </div>
-          - Dissertation: Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems
+          - Dissertation: *Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems*
           - Published a paper, Sponge, an adaptive and scalable stream processing system leveraging benefits of powerful stable VMs and fast-scaling serverless frameworks.
           - Published a paper, SWAN, a stream processing system that adaptively utilizes optimal network connections under globally distributed computing clusters.
           - Published a paper, Pado, a data processing system for harnessing transient resources.
@@ -362,7 +362,7 @@ content:
           - Published a paper for the Apache Nemo project that builds dataflow optimization policies, as well as a journal paper with supplementary materials
           - Published a paper, Cruise, for automatically adjusting system configurations for distributed ML jobs.
           - Published a paper, Harmony, a scheduling framework for optimizing the execution of multiple distributed ML jobs.
-          - Currently applying machine learning techniques to optimize the execution of data processing applications on Apache Nemo.
+          - Currently extending my research to AI systems.
       - layout: left
         title: Apache Software Foundation
         sub_title: Started as a GSoC student developer, mentor, and now a project committer and PMC.
