@@ -50,7 +50,7 @@ gtag: "G-CD8QRK5MDY"
 about_profile_image: images/wonook2_1x1_.jpeg
 about_content: | # this will include new lines to allow paragraphs
   <img src="https://img.shields.io/badge/Interests-Distributed Systems, Clouds, Big Data, Data Processing, Machine Learning-dodgerblue" />  <img src="https://img.shields.io/badge/Languages-English, Korean, French-dodgerblue" />  <a href="mailto:wonook@apache.org"><img src="https://img.shields.io/badge/I'm looking for a job!-critical" /></a> <br><br>
-  Hi, I'm Won Wook (pronounced as Wonook) and my research interests reside in distributed systems for efficiently processing big data and machine learning workloads.  
+  Hi, I'm Won Wook (pronounced as Wonook) and my research interests reside in distributed systems for efficiently processing big data and performing large-scale AI.  
   I finished my Ph.D. in computer science at <a href="https://en.snu.ac.kr">Seoul National University</a> in 2023, under the supervision of <a href="https://bgchun.github.io">Professor Byung-Gon Chun</a>. I also received my B.E. degree in computer science from <a href="https://en.snu.ac.kr">Seoul National University</a> in 2017.
 
 # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
@@ -261,10 +261,20 @@ content:
         sub_title: Apache Beam Summit 2019, Berlin, Germany.
         caption: JUNE 2019
       - layout: top-middle
+        title: Conference with Experts on Technology Trends and International Affairs (Korean).
+        link: Undisclosed talk
+        sub_title: Korean Ministry of Foreign Affairs, Seoul, South Korea.
+        caption: NOV. 2020
+      - layout: top-middle
         title: Fast and Efficient Data Processing with Apache Nemo. (Korean)
         link: https://tv.naver.com/v/15151364
         sub_title: Naver Tech Talk 2020, Seoul, South Korea.
         caption: JULY 2020
+      - layout: top-middle
+        title: Executing Apache Beam Applications with Optimized Configurations on Specific Environments on Apache Nemo. (Korean)
+        link: https://festa.io/events/152 
+        sub_title: KOSSCON 2018, Seoul, South Korea.
+        caption: NOV. 2018
       - layout: top-middle
         title: A Flexible and an Extensible way of Big Data Processing. (Korean)
         link: https://tv.naver.com/v/2293702 
