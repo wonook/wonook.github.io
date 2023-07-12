@@ -62,9 +62,9 @@ content:
     content:
       - layout: top
         title: "*Sponge: Fast Reactive Scaling for Stream Processing with Serverless Frameworks"
-        link: https://www.usenix.org/conference/atc23/presentation/songwonwook
+        link: https://www.usenix.org/conference/atc23/presentation/song
         link_text: Click for full text
-        sub_title: 2023. To appear in USENIX Annual Technical Conference (ATC) ‘23. USENIX Association.
+        sub_title: 2023. USENIX Annual Technical Conference (ATC) ‘23. USENIX Association. ISBN 978-1-939133-35-9
         # caption: November 2017 - Present
         # quote: >
           # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -73,10 +73,10 @@ content:
         additional_links:
           - title: Link
             icon: fa fa-paperclip
-            url: https://www.usenix.org/conference/atc23/presentation/songwonwook
+            url: https://www.usenix.org/conference/atc23/presentation/song
           - title: paper
             icon: fa fa-sticky-note-o
-            url: https://www.usenix.org/conference/atc23/presentation/songwonwook
+            url: https://www.usenix.org/system/files/atc23-song.pdf
           - title: github
             icon: fab fa-github
             url: https://github.com/apache/incubator-nemo
