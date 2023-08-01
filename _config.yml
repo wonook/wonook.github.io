@@ -50,8 +50,8 @@ gtag: "G-CD8QRK5MDY"
 about_profile_image: images/wonook2_1x1_.jpeg
 about_content: | # this will include new lines to allow paragraphs
   <img src="https://img.shields.io/badge/Interests-Distributed Systems, Clouds, Big Data, Data Processing, Machine Learning-dodgerblue" />  <img src="https://img.shields.io/badge/Languages-English, Korean, French-dodgerblue" />  <a href="mailto:wonook@apache.org"><img src="https://img.shields.io/badge/I'm looking for a job!-critical" /></a> <br><br>
-  Hi, I'm Won Wook (pronounced as Wonook) and my research interests reside in distributed systems for efficiently processing big data and performing large-scale AI.  
-  I finished my Ph.D. in computer science at <a href="https://en.snu.ac.kr">Seoul National University</a> in 2023, under the supervision of <a href="https://bgchun.github.io">Professor Byung-Gon Chun</a>. I also received my B.E. degree in computer science from <a href="https://en.snu.ac.kr">Seoul National University</a> in 2017.
+  Hi 👋, I'm Won Wook (pronounced as Wonook) and my research interests reside in distributed systems for efficiently processing big data and performing large-scale AI.  
+  I finished my Ph.D. in computer science at <a href="https://en.snu.ac.kr">Seoul National University</a> in 2023, under the supervision of <a href="https://bgchun.github.io">Professor Byung-Gon Chun</a>. My dissertation title is "Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems". I also received my B.E. degree in computer science from <a href="https://en.snu.ac.kr">Seoul National University</a> in 2017.
 
 # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
@@ -346,7 +346,7 @@ content:
     content:
       - layout: left
         title: Software Platform Lab
-        sub_title: A research intern and eventually a PhD. candidate.
+        sub_title: PhD Candidate.
         caption: MAY 2016 - AUG 2023
         link: https://spl.snu.ac.kr
         # link: github.com/sproogen
@@ -367,11 +367,11 @@ content:
           - Dissertation: *Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems*
           - Published a paper, Sponge, an adaptive and scalable stream processing system leveraging benefits of powerful stable VMs and fast-scaling serverless frameworks.
           - Published a paper, SWAN, a stream processing system that adaptively utilizes optimal network connections under globally distributed computing clusters.
-          - Published a paper, Pado, a data processing system for harnessing transient resources.
           - Currently working on the Apache Nemo incubator project.
           - Published a paper for the Apache Nemo project that builds dataflow optimization policies, as well as a journal paper with supplementary materials
           - Published a paper, Cruise, for automatically adjusting system configurations for distributed ML jobs.
           - Published a paper, Harmony, a scheduling framework for optimizing the execution of multiple distributed ML jobs.
+          - Published a paper, Pado, a distributed data processing system that effectively uses transient resources.
           - Currently extending my research to AI systems.
       - layout: left
         title: Apache Software Foundation
@@ -384,7 +384,7 @@ content:
           </div>
           - Primary committer and PMC for the Apache Nemo incubator project.
           - Participated as a GSoC mentor in 2017, 2018, 2020, 2021, 2022.
-          - Contributing to other Apache projects, such as Apache Beam from 2018.
+          - Contributing to other Apache projects as well, such as Apache Beam from 2018.
           - Experiences with open source contribution, and community activities such as preparing and launching releases.
           - Previously a Google Summer of Code student developer for the Apache REEF project and finished the development of a ssh-standalone mode for running REEF in 2016.
           - Experience with tools like Apache Maven, JIRA, Git/GitHub, and many more.
@@ -399,6 +399,16 @@ content:
           </div>
           - Worked with the Network Research Group in MSRA, mentored by Yongqiang Xiong and Wenxue Cheng
           - Worked with OpenNetLab: open platform for RL-based congestion control for real-time communication, based on the OpenAI/gym library.
+      - layout: left
+        title: Ministry of National Defense, Republic of Korea
+        sub_title: Technical Research Personnel.
+        caption: SEPT. 2020 - AUG. 2023
+        link: https://www.mnd.go.kr/mbshome/mbs/mndEN/
+        description: | # this will include new lines to allow paragraphs
+          <div style="text-align: center;">
+          <img src="https://i.namu.wiki/i/Hb-n_XhiZw5ubuNkLAaB7ITtCJxt5arniDBsZAQYrQVxsMDvLkhM0bQLEbHartzx6WqwB-wEbMxlm4-rK34p8WTKg8YYA5qsOCBUUGwcscnwJdEouP-S8qQ-7OoiQ5jZfZKr0_MmohFYzjb8AkyptQ.svg" alt="MND logo" height="60"/>
+          </div>
+          - Served the military duty of Republic of Korea as a Technical Research Personnel.
       - layout: left
         title: ButFitSeoul
         sub_title: Full-stack web developer
