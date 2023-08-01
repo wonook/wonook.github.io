@@ -399,16 +399,16 @@ content:
           </div>
           - Worked with the Network Research Group in MSRA, mentored by Yongqiang Xiong and Wenxue Cheng
           - Worked with OpenNetLab: open platform for RL-based congestion control for real-time communication, based on the OpenAI/gym library.
-      - layout: left
-        title: Ministry of National Defense, Republic of Korea
-        sub_title: Technical Research Personnel.
-        caption: SEPT. 2020 - AUG. 2023
-        link: https://www.mnd.go.kr/mbshome/mbs/mndEN/
-        description: | # this will include new lines to allow paragraphs
-          <div style="text-align: center;">
-          <img src="https://i.namu.wiki/i/Hb-n_XhiZw5ubuNkLAaB7ITtCJxt5arniDBsZAQYrQVxsMDvLkhM0bQLEbHartzx6WqwB-wEbMxlm4-rK34p8WTKg8YYA5qsOCBUUGwcscnwJdEouP-S8qQ-7OoiQ5jZfZKr0_MmohFYzjb8AkyptQ.svg" alt="MND logo" height="60"/>
-          </div>
-          - Served the military duty of Republic of Korea as a Technical Research Personnel.
+      # - layout: left
+      #   title: Ministry of National Defense, Republic of Korea
+      #   sub_title: Technical Research Personnel.
+      #   caption: SEPT. 2020 - AUG. 2023
+      #   link: https://www.mnd.go.kr/mbshome/mbs/mndEN/
+      #   description: | # this will include new lines to allow paragraphs
+      #     <div style="text-align: center;">
+      #     <img src="https://i.namu.wiki/i/Hb-n_XhiZw5ubuNkLAaB7ITtCJxt5arniDBsZAQYrQVxsMDvLkhM0bQLEbHartzx6WqwB-wEbMxlm4-rK34p8WTKg8YYA5qsOCBUUGwcscnwJdEouP-S8qQ-7OoiQ5jZfZKr0_MmohFYzjb8AkyptQ.svg" alt="MND logo" height="60"/>
+      #     </div>
+      #     - Served the military duty of Republic of Korea as a Technical Research Personnel.
       - layout: left
         title: ButFitSeoul
         sub_title: Full-stack web developer
