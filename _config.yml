@@ -47,7 +47,7 @@ gtag: "G-CD8QRK5MDY"
 
 # About Section
 # about_title: About Me
-about_profile_image: images/wonook2_1x1_.jpeg
+about_profile_image: images/wonook4_1x1_.jpeg
 about_content: | # this will include new lines to allow paragraphs
   <img src="https://img.shields.io/badge/Interests-Distributed Systems, Clouds, Big Data, Data Processing, Machine Learning-dodgerblue" />  <img src="https://img.shields.io/badge/Languages-English, Korean, French-dodgerblue" />  <a href="mailto:wonook@apache.org"><img src="https://img.shields.io/badge/I'm looking for a job!-critical" /></a> <br><br>
   Hi 👋, I'm Won Wook (pronounced as Wonook) and my research interests reside in distributed systems for efficiently processing big data and performing large-scale AI.  
