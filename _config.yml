@@ -65,6 +65,26 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
+        title: "*Blaze: Holistic Caching for Iterative Data Processing"
+        # link: https://www.usenix.org/conference/atc23/presentation/song
+        # link_text: Click for full text
+        sub_title: To appear in April 2024. European Conference on Computer Systems (EuroSys '24). ACM.
+        # caption: November 2017 - Present
+        # quote: >
+          # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            *Won Wook Song*, Jeongyoon Eo, Taegeon Um, Myeongjae Jeon, and Byung-Gon Chun
+        # additional_links:
+        #   - title: Link
+        #     icon: fa fa-paperclip
+        #     url: https://www.usenix.org/conference/atc23/presentation/song
+        #   - title: paper
+        #     icon: fa fa-sticky-note-o
+        #     url: https://www.usenix.org/system/files/atc23-song.pdf
+        #   - title: github
+        #     icon: fab fa-github
+        #     url: https://github.com/apache/incubator-nemo
+      - layout: top
         title: "*Sponge: Fast Reactive Scaling for Stream Processing with Serverless Frameworks"
         link: https://www.usenix.org/conference/atc23/presentation/song
         link_text: Click for full text
@@ -179,7 +199,7 @@ content:
         title: "Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters"
         link: https://snuspl.github.io/assets/paper/p575-Yang.pdf
         link_text: Click for full text
-        sub_title: 2017. EuroSys '17. ACM. ISBN 978-1-4503-4938-3. DOI https://doi.org/10.1145/3064176.3064181
+        sub_title: 2017. European Conference on Computer Systems (EuroSys '17). ACM. ISBN 978-1-4503-4938-3. DOI https://doi.org/10.1145/3064176.3064181
         description: | # this will include new lines to allow paragraphs
             Youngseok Yang, Geon-Woo Kim, *Won Wook Song*, Yunseong Lee, Andrew Chung, Zhengping Qian, Brian Cho, and Byung-Gon Chun.
         additional_links:
