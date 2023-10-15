@@ -369,6 +369,18 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: FriendliAI
+        sub_title: Researcher.
+        caption: SEPT 2023 - PRESENT
+        link: https://friendli.ai
+        description: | # this will include new lines to allow paragraphs
+          <div style="text-align: center;">
+          <img src="https://friendli.ai/_next/static/media/fai-logo-no-bg.1b3d63f0.svg" alt="friendliai logo" height="120"/>
+          </div>
+          - System for AI
+          - Large-language models (LLMs)
+          - Inference serving
+      - layout: left
         title: Software Platform Lab
         sub_title: PhD Candidate.
         caption: MAY 2016 - AUG 2023
@@ -389,6 +401,7 @@ content:
           <img src="https://avatars.githubusercontent.com/u/6446990?s=200&v=4" alt="SPL logo" height="120"/>
           </div>
           - Dissertation: *Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems*
+          - Published a paper, Blaze, a data processing system that optimizes caching by coordinating separate layers in a holistic manner to use memory resources effectively.
           - Published a paper, Sponge, an adaptive and scalable stream processing system leveraging benefits of powerful stable VMs and fast-scaling serverless frameworks.
           - Published a paper, SWAN, a stream processing system that adaptively utilizes optimal network connections under globally distributed computing clusters.
           - Currently working on the Apache Nemo incubator project.
