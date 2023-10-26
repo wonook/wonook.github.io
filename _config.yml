@@ -402,12 +402,12 @@ content:
           <img src="https://avatars.githubusercontent.com/u/6446990?s=200&v=4" alt="SPL logo" height="120"/>
           </div>
           - Dissertation: *Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems*
-          - My research records demonstrate that I can drive researches and publish papers as the first author, as well as collaborate with others as a co-author. Below are the brief explanations for each of the works.
+          - My research records demonstrate that I can conduct researches and publish papers as the first author, as well as collaborate with others as a co-author. Below are the brief explanations for each of the works.
           - First-authored papers
             - *Blaze* is a data processing system that optimizes caching by coordinating separate layers in a holistic manner to use memory resources effectively.
             - *Sponge* is an adaptive and scalable stream processing system leveraging benefits of powerful stable VMs and fast-scaling serverless frameworks.
             - *SWAN* is a stream processing system that adaptively utilizes optimal network connections under globally distributed computing clusters.
-            - Published a journal paper (first-authored) and a conference paper (co-authored) for the *Apache Nemo* project that builds dataflow optimization policies.
+            - Published a journal paper (first-authored) and a conference paper (co-authored) for the *Apache Nemo* project that flexibly builds dataflow optimization policies.
           - Co-authored papers
             - *Cruise* is a system for automatically adjusting system configurations for distributed ML jobs.
             - *Harmony* is a scheduling framework for optimizing the execution of multiple distributed ML jobs for high utilization of CPU, memory, and network resources.
