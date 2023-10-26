@@ -66,21 +66,21 @@ content:
     content:
       - layout: top
         title: "*Blaze: Holistic Caching for Iterative Data Processing"
-        # link: https://www.usenix.org/conference/atc23/presentation/song
-        # link_text: Click for full text
+        link: https://doi.org/10.1145/3627703.3629558
+        link_text: Click for full text
         sub_title: To appear in April 2024. European Conference on Computer Systems (EuroSys '24). ACM.
         # caption: November 2017 - Present
         # quote: >
           # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             *Won Wook Song*, Jeongyoon Eo, Taegeon Um, Myeongjae Jeon, and Byung-Gon Chun
-        # additional_links:
-        #   - title: Link
-        #     icon: fa fa-paperclip
-        #     url: https://www.usenix.org/conference/atc23/presentation/song
-        #   - title: paper
-        #     icon: fa fa-sticky-note-o
-        #     url: https://www.usenix.org/system/files/atc23-song.pdf
+        additional_links:
+          - title: Link
+            icon: fa fa-paperclip
+            url: https://doi.org/10.1145/3627703.3629558
+          - title: paper
+            icon: fa fa-sticky-note-o
+            url: https://dl.acm.org/doi/pdf/10.1145/3627703.3629558
         #   - title: github
         #     icon: fab fa-github
         #     url: https://github.com/apache/incubator-nemo
@@ -377,8 +377,10 @@ content:
           <div style="text-align: center;">
           <img src="https://friendli.ai/_next/static/media/fai-logo-no-bg.1b3d63f0.svg" alt="friendliai logo" height="35"/>
           </div>
-          - Start-up experience in system for AI and large language models (LLMs)
+          - Start-up experience in building a system for AI and large language models (LLMs)
           - Creating a system to make inference serving efficient
+          - Experience in large-scale cluster management through Kubernetes, Terraform, Helm.
+          - Took charge of the company's technical publishing work (i.e., blog)
       - layout: left
         title: Software Platform Lab
         sub_title: PhD Candidate.
@@ -400,15 +402,16 @@ content:
           <img src="https://avatars.githubusercontent.com/u/6446990?s=200&v=4" alt="SPL logo" height="120"/>
           </div>
           - Dissertation: *Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems*
-          - Published a paper, Blaze, a data processing system that optimizes caching by coordinating separate layers in a holistic manner to use memory resources effectively.
-          - Published a paper, Sponge, an adaptive and scalable stream processing system leveraging benefits of powerful stable VMs and fast-scaling serverless frameworks.
-          - Published a paper, SWAN, a stream processing system that adaptively utilizes optimal network connections under globally distributed computing clusters.
-          - Currently working on the Apache Nemo incubator project.
-          - Published a paper for the Apache Nemo project that builds dataflow optimization policies, as well as a journal paper with supplementary materials
-          - Published a paper, Cruise, for automatically adjusting system configurations for distributed ML jobs.
-          - Published a paper, Harmony, a scheduling framework for optimizing the execution of multiple distributed ML jobs.
-          - Published a paper, Pado, a distributed data processing system that effectively uses transient resources.
-          - Currently extending my research to AI systems.
+          - My research records demonstrate that I can drive researches and publish papers as the first author, as well as collaborate with others as a co-author. Below are the brief explanations for each of the works.
+          - First-authored papers
+            - *Blaze* is a data processing system that optimizes caching by coordinating separate layers in a holistic manner to use memory resources effectively.
+            - *Sponge* is an adaptive and scalable stream processing system leveraging benefits of powerful stable VMs and fast-scaling serverless frameworks.
+            - *SWAN* is a stream processing system that adaptively utilizes optimal network connections under globally distributed computing clusters.
+            - Published a journal paper (first-authored) and a conference paper (co-authored) for the *Apache Nemo* project that builds dataflow optimization policies.
+          - Co-authored papers
+            - *Cruise* is a system for automatically adjusting system configurations for distributed ML jobs.
+            - *Harmony* is a scheduling framework for optimizing the execution of multiple distributed ML jobs for high utilization of CPU, memory, and network resources.
+            - *Pado* is a distributed data processing system that effectively uses cheap transient resources while guaranteeing progress.
       - layout: left
         title: Apache Software Foundation
         sub_title: Started as a GSoC student developer, mentor, and now a project committer and PMC.
@@ -418,11 +421,12 @@ content:
           <div style="text-align: center;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/320px-Apache_Software_Foundation_Logo_%282016%29.svg.png" alt="apache logo" height="120"/>
           </div>
-          - Primary committer and PMC for the Apache Nemo incubator project.
-          - Participated as a GSoC mentor in 2017, 2018, 2020, 2021, 2022.
+          - Primary committer and a PMC member on the Apache Nemo incubator project.
+          - Participated as a GSoC mentor in 2017, [2018](https://summerofcode.withgoogle.com/archive/2018/projects/4758094961704960), 2020, [2021](https://summerofcode.withgoogle.com/archive/2021/projects/5555996843311104), [2022](https://summerofcode.withgoogle.com/archive/2022/projects/hNZOOc0x) for ASF to supervise student projects on top of Apache Nemo..
           - Contributing to other Apache projects as well, such as Apache Beam from 2018.
           - Experiences with open source contribution, and community activities such as preparing and launching releases.
-          - Previously a Google Summer of Code student developer for the Apache REEF project and finished the development of a ssh-standalone mode for running REEF in 2016.
+          - Previously a [Google Summer of Code student developer](https://summerofcode.withgoogle.com/archive/2016/projects/5207595501486080) for the Apache REEF project and finished the development of a ssh-standalone mode for running REEF in 2016.
+          - Apache REEF is a library that facilitates building of distributed systems in cluster environments with a master and multiple workers.
           - Experience with tools like Apache Maven, JIRA, Git/GitHub, and many more.
       - layout: left
         title: Microsoft Research Asia
@@ -433,8 +437,8 @@ content:
           <div style="text-align: center;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/320px-Microsoft_logo_%282012%29.svg.png" alt="MS logo" height="60"/>
           </div>
-          - Worked with the Network Research Group in MSRA, mentored by Yongqiang Xiong and Wenxue Cheng
-          - Worked with OpenNetLab: open platform for RL-based congestion control for real-time communication, based on the OpenAI/gym library.
+          - Worked with the [Network Research Group in MSRA](https://www.microsoft.com/en-us/research/group/networking_research_group/), mentored by Yongqiang Xiong and Wenxue Cheng
+          - Worked with OpenNetLab: open platform for RL-based congestion control for real-time communication, based on the [OpenAI/gym](https://github.com/openai/gym) library.
       # - layout: left
       #   title: Ministry of National Defense, Republic of Korea
       #   sub_title: Technical Research Personnel.
@@ -460,7 +464,7 @@ content:
           - Used Git, GitHub, AWS, GCP (Compute/EC2, RDBMS, Storage/S3, etc.)
       - layout: left
         title: ArtMyn
-        sub_title: Part time web/server developer in Lausanne, Switzerland
+        sub_title: Web/server developer in Lausanne, Switzerland (part-time)
         caption: OCT. 2015 - JAN. 2016
         link: https://artmyn.com
         # link_text: Website
@@ -481,7 +485,7 @@ content:
           - Accepted as a student developer for the Google Summer of code project on a Rails web application.
           - Used Rails, PostgreSQL, ReactJS, minitest-rails, Capistrano, Passenger.
           - Used Slack, Travis CI, Git/GitHub, Agile for communication, CI, and development.
-          - Experience with team members scattered around the globe (Asia, America, and Europe).
+          - Experience with working with collaborators scattered around the globe (Asia, America, and Europe).
       - layout: left
         title: YelloMobile
         sub_title: Full-stack web developer
