@@ -52,7 +52,7 @@ about_profile_image: images/wonook4_1x1_.jpeg
 about_content: | # this will include new lines to allow paragraphs
   <img src="https://img.shields.io/badge/Interests-Distributed Systems, Clouds, Big Data, Data Processing, Machine Learning-dodgerblue" />  <img src="https://img.shields.io/badge/Languages-English, Korean, French-dodgerblue" />  
    <br>
-  Hi 👋, I'm Won Wook (pronounced as Wonook) and my research interests reside in distributed systems for efficiently processing big data and performing large-scale AI.  
+  Hi 👋, I'm Won Wook (pronounced as Wonook) and my research interests reside in distributed systems for efficiently processing big data and performing large-scale AI. You can check out my works presented in computer science conferences and journals, including USENIX ATC, ACM EuroSys, and ACM TOCS.  
   I finished my Ph.D. in computer science at <a href="https://en.snu.ac.kr">Seoul National University</a> in 2023, under the supervision of <a href="https://bgchun.github.io">Professor Byung-Gon Chun</a>. My dissertation title is "Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems". I also received my B.S. degree in computer science from <a href="https://en.snu.ac.kr">Seoul National University</a> in 2017.
   <br><br><a href="https://docs.google.com/document/d/1S3vEHc9leVQ0NK_5GjvWHoKbbqGtxPJ-8Ka5jIDXzmc/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Click for CV-critical" /></a>
 
@@ -380,7 +380,7 @@ content:
           - Start-up experience in building a system for AI and large language models (LLMs)
           - Creating a system to make inference serving efficient
           - Experience in large-scale cluster management through Kubernetes, Terraform, Helm.
-          - Took charge of the company's technical publishing work (i.e., blog)
+          - Experience in publishing the company's technical work online (i.e., [https://friendli.ai/blog](https://friendli.ai/blog))
       - layout: left
         title: Software Platform Lab
         sub_title: PhD Candidate.
@@ -402,13 +402,13 @@ content:
           <img src="https://avatars.githubusercontent.com/u/6446990?s=200&v=4" alt="SPL logo" height="120"/>
           </div>
           - Dissertation: *Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems*
-          - My research records demonstrate that I can conduct researches and publish papers as the first author, as well as collaborate with others as a co-author. Below are the brief explanations for each of the works.
-          - First-authored papers
+          - My research records demonstrate that I can conduct researches and publish papers in top-level conferences and journals as the first author, as well as collaborate with others as a co-author. Below are the brief explanations for each of the works.
+          - First-authored papers (in USENIX ATC, ACM EuroSys, TOCS, APSys)
             - *Blaze* is a data processing system that optimizes caching by coordinating separate layers in a holistic manner to use memory resources effectively.
             - *Sponge* is an adaptive and scalable stream processing system leveraging benefits of powerful stable VMs and fast-scaling serverless frameworks.
             - *SWAN* is a stream processing system that adaptively utilizes optimal network connections under globally distributed computing clusters.
             - Published a journal paper (first-authored) and a conference paper (co-authored) for the *Apache Nemo* project that flexibly builds dataflow optimization policies.
-          - Co-authored papers
+          - Co-authored papers (in USENIX ATC, ACM EuroSys, IEEE ICDCS)
             - *Cruise* is a system for automatically adjusting system configurations for distributed ML jobs.
             - *Harmony* is a scheduling framework for optimizing the execution of multiple distributed ML jobs for high utilization of CPU, memory, and network resources.
             - *Pado* is a distributed data processing system that effectively uses cheap transient resources while guaranteeing progress.
