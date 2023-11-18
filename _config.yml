@@ -162,7 +162,7 @@ content:
         title: "*Blaze: Holistic Caching for Iterative Data Processing"
         link: https://doi.org/10.1145/3627703.3629558
         link_text: Click for full text
-        sub_title: To appear in April 2024. European Conference on Computer Systems (EuroSys '24). ACM.
+        sub_title: To appear in April 2024. European Conference on Computer Systems (EuroSys '24). ACM. DOI https://doi.org/10.1145/3627703.3629558
         # caption: November 2017 - Present
         # quote: >
           # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -423,7 +423,7 @@ content:
           - Apache REEF is a library that facilitates building of distributed systems in cluster environments with a master and multiple workers.
           - Experience with tools like Apache Maven, JIRA, Git/GitHub, and many more.
       - layout: left
-        title: Microsoft Research Asia
+        title: Microsoft Research
         sub_title: Research Intern.
         caption: DEC. 2020 - JUNE 2021
         link: https://www.microsoft.com/research
