@@ -169,6 +169,9 @@ content:
         description: | # this will include new lines to allow paragraphs
             *Won Wook Song*, Jeongyoon Eo, Taegeon Um, Myeongjae Jeon, and Byung-Gon Chun
         additional_links:
+          - title: Bibtex
+            icon: fa fa-book
+            url: https://wonook.github.io/papers/eurosys24-song-blaze.bib
           - title: Link
             icon: fa fa-paperclip
             url: https://wonook.github.io/papers/eurosys24-song-blaze.pdf
@@ -192,6 +195,9 @@ content:
         description: | # this will include new lines to allow paragraphs
             *Won Wook Song*, Taegeon Um, Sameh Elnikety, Myeongjae Jeon, and Byung-Gon Chun
         additional_links:
+          - title: Bibtex
+            icon: fa fa-book
+            url: https://wonook.github.io/papers/atc23-song-sponge.bib
           - title: Link
             icon: fa fa-paperclip
             url: https://www.usenix.org/conference/atc23/presentation/song
@@ -213,6 +219,9 @@ content:
         description: | # this will include new lines to allow paragraphs
             *Won Wook Song*, Myeongjae Jeon, and Byung-Gon Chun
         additional_links:
+          - title: Bibtex
+            icon: fa fa-book
+            url: https://wonook.github.io/papers/apsys22-song-swan.bib
           - title: Link
             icon: fa fa-paperclip
             url: https://doi.org/10.1145/3546591.3547524
@@ -234,6 +243,9 @@ content:
         description: | # this will include new lines to allow paragraphs
             *Won Wook Song*, Youngseok Yang, Jeongyoon Eo, Jangho Seo, Joo Yeon Kim, Sanha Lee, Gyewon Lee, Taegeon Um, Haeyoon Cho, and Byung-Gon Chun
         additional_links:
+          - title: Bibtex
+            icon: fa fa-book
+            url: https://wonook.github.io/papers/tocs21-song-nemo.bib
           - title: Link
             icon: fa fa-paperclip
             url: https://doi.org/10.1145/3468144
@@ -252,6 +264,9 @@ content:
         description: | # this will include new lines to allow paragraphs
             Woo-Yeon Lee, Yunseong Lee, *Won Wook Song*, Youngseok Yang, Joo Yeon Kim and Byung-Gon Chun
         additional_links:
+          - title: Bibtex
+            icon: fa fa-book
+            url: https://wonook.github.io/papers/icdcs21-lee-harmony.bib
           - title: Link
             icon: fa fa-paperclip
             url: https://doi.org/10.1109/ICDCS51616.2021.00085
@@ -270,6 +285,9 @@ content:
         description: | # this will include new lines to allow paragraphs
             Youngseok Yang, Jeongyoon Eo, Geon-Woo Kim, Joo Yeon Kim, Sanha Lee, Jangho Seo, *Won Wook Song*, and Byung-Gon Chun.
         additional_links:
+          - title: Bibtex
+            icon: fa fa-book
+            url: https://wonook.github.io/papers/atc19-yang-nemo.bib
           - title: Link
             icon: fa fa-paperclip
             url: https://www.usenix.org/conference/atc19/presentation/yang-youngseok
@@ -288,6 +306,9 @@ content:
         description: | # this will include new lines to allow paragraphs
             Woo-Yeon Lee, Yunseong Lee, Joo Seong Jeong, Gyeong-In Yu, Joo Yeon Kim, Ho Jin Park, Beomyeol Jeon, *Won Wook Song*, Gunhee Kim, Markus Weimer, Brian Cho, Byung-Gon Chun.
         additional_links:
+          - title: Bibtex
+            icon: fa fa-book
+            url: https://wonook.github.io/papers/icdcs19-lee-eml.bib
           - title: Link
             icon: fa fa-paperclip
             url: https://ieeexplore.ieee.org/document/8884800/
@@ -306,6 +327,9 @@ content:
         description: | # this will include new lines to allow paragraphs
             Youngseok Yang, Geon-Woo Kim, *Won Wook Song*, Yunseong Lee, Andrew Chung, Zhengping Qian, Brian Cho, and Byung-Gon Chun.
         additional_links:
+          - title: Bibtex
+            icon: fa fa-book
+            url: https://wonook.github.io/papers/eurosys17-yang-pado.bib
           - title: Link
             icon: fa fa-paperclip
             url: https://dl.acm.org/doi/10.1145/3064176.3064181

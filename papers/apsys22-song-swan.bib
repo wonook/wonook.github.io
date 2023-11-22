@@ -1,0 +1,17 @@
+@inproceedings{song-swan, 
+author = {Song, Won Wook and Jeon, Myeongjae and Chun, Byung-Gon}, 
+title = {SWAN: WAN-Aware Stream Processing on Geographically-Distributed Clusters}, 
+year = {2022}, 
+isbn = {9781450394413}, 
+publisher = {Association for Computing Machinery}, 
+address = {New York, NY, USA}, 
+url = {https://doi.org/10.1145/3546591.3547524}, 
+doi = {10.1145/3546591.3547524}, 
+abstract = {Wide-area stream analytics is commonly being used to extract operational or business insights from the data issued from multiple distant datacenters. However, timely processing of such data streams is challenging because wide-area network (WAN) bandwidth is scarce and varies widely across both different geo-locations (i.e., spatially) and points of time (i.e., temporally). Stream analytics desirable under a WAN setup requires the consideration of path diversity and the associated bandwidth from data source to sink when performing operator task placement for the query execution plan. It also has to enable fast adaptation to dynamic resource conditions, e.g., changes in network bandwidth, to keep the query execution stable.We present SWAN, a WAN stream analytics engine that incorporates two key techniques to meet the aforementioned requirements. First, SWAN provides a fast heuristic model that captures WAN characteristics at runtime and evenly distributes tasks to nodes while maximizing the network bandwidth for intermediate data. Second, SWAN exploits a stream relaying operator (or RO) to extend a query plan for better facilitating path diversity. This is driven by our observation that oftentimes, a longer path with more communication hops provides higher bandwidth to reach the data sink than a shorter path, allowing us to trade-off query latency for higher query throughput. SWAN stretches a given query plan by adding ROs at compile time to opportunistically place it over such a longer path. In practice, throughput gains do not necessarily lead to significant latency increases, due to higher network bandwidth providing more in-flight data transfers. Our prototype improves the latency and the throughput of stream analytics performances by 77.6\% and 5.64X, respectively, compared to existing approaches, and performs query adaptations within seconds.}, 
+booktitle = {Proceedings of the 13th ACM SIGOPS Asia-Pacific Workshop on Systems}, 
+pages = {78–84}, 
+numpages = {7}, 
+keywords = {networks, data processing, distributed systems}, 
+location = {Virtual Event, Singapore}, 
+series = {APSys '22} 
+}
