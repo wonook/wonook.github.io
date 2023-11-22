@@ -160,7 +160,7 @@ content:
     content:
       - layout: top
         title: "*Blaze: Holistic Caching for Iterative Data Processing"
-        link: https://doi.org/10.1145/3627703.3629558
+        link: papers/eurosys24-song-blaze.pdf
         link_text: Click for full text
         sub_title: To appear in April 2024. European Conference on Computer Systems (EuroSys '24). ACM. DOI https://doi.org/10.1145/3627703.3629558
         # caption: November 2017 - Present
@@ -180,7 +180,7 @@ content:
         #     url: https://github.com/apache/incubator-nemo
       - layout: top
         title: "*Sponge: Fast Reactive Scaling for Stream Processing with Serverless Frameworks"
-        link: https://www.usenix.org/conference/atc23/presentation/song
+        link: papers/atc23-song-sponge.pdf
         link_text: Click for full text
         sub_title: 2023. USENIX Annual Technical Conference (ATC) ‘23. USENIX Association. ISBN 978-1-939133-35-9
         # caption: November 2017 - Present
