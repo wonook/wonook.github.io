@@ -160,7 +160,7 @@ content:
     content:
       - layout: top
         title: "*Blaze: Holistic Caching for Iterative Data Processing"
-        link: papers/eurosys24-song-blaze.pdf
+        link: https://wonook.github.io/papers/eurosys24-song-blaze.pdf
         link_text: Click for full text
         sub_title: To appear in April 2024. European Conference on Computer Systems (EuroSys '24). ACM. DOI https://doi.org/10.1145/3627703.3629558
         # caption: November 2017 - Present
@@ -171,16 +171,19 @@ content:
         additional_links:
           - title: Link
             icon: fa fa-paperclip
-            url: https://doi.org/10.1145/3627703.3629558
+            url: https://wonook.github.io/papers/eurosys24-song-blaze.pdf
+            # url: https://doi.org/10.1145/3627703.3629558
           - title: paper
             icon: fa fa-sticky-note-o
-            url: https://dl.acm.org/doi/pdf/10.1145/3627703.3629558
+            url: https://wonook.github.io/papers/eurosys24-song-blaze.pdf
+            # url: https://dl.acm.org/doi/pdf/10.1145/3627703.3629558
         #   - title: github
         #     icon: fab fa-github
         #     url: https://github.com/apache/incubator-nemo
       - layout: top
         title: "*Sponge: Fast Reactive Scaling for Stream Processing with Serverless Frameworks"
-        link: papers/atc23-song-sponge.pdf
+        link: https://wonook.github.io/papers/atc23-song-sponge.pdf
+        # link: https://www.usenix.org/system/files/atc23-song.pdf
         link_text: Click for full text
         sub_title: 2023. USENIX Annual Technical Conference (ATC) ‘23. USENIX Association. ISBN 978-1-939133-35-9
         # caption: November 2017 - Present
@@ -200,7 +203,8 @@ content:
             url: https://github.com/apache/incubator-nemo
       - layout: top
         title: "SWAN: WAN-aware Stream Processing on Geographically-distributed Clusters"
-        link: https://dl.acm.org/doi/pdf/10.1145/3546591.3547524
+        link: https://wonook.github.io/papers/apsys22-song-swan.pdf
+        # link: https://dl.acm.org/doi/pdf/10.1145/3546591.3547524
         link_text: Click for full text
         sub_title: 2022. APSys (Asia-Pacific Workshop on Systems). ACM SIGOPS. ISBN 978-1-4503-9441-3. DOI https://doi.org/10.1145/3546591.3547524
         # caption: November 2017 - Present
@@ -220,7 +224,8 @@ content:
             url: https://github.com/apache/incubator-nemo
       - layout: top
         title: "*Apache Nemo: A Framework for Optimizing Distributed Data Processing"
-        link: https://dl.acm.org/doi/pdf/10.1145/3468144
+        link: https://wonook.github.io/papers/tocs21-song-nemo.pdf
+        # link: https://dl.acm.org/doi/pdf/10.1145/3468144
         link_text: Click for full text
         sub_title: 2021. Transactions on Computer Systems (TOCS). ACM. DOI https://doi.org/10.1145/3468144
         # caption: November 2017 - Present
@@ -240,7 +245,8 @@ content:
             url: https://github.com/apache/incubator-nemo
       - layout: top
         title: "Harmony: A Scheduling Framework Optimized for Multiple Distributed Machine Learning Jobs"
-        link: https://ieeexplore.ieee.org/document/9546495
+        link: https://wonook.github.io/papers/icdcs21-lee-harmony.pdf
+        # link: https://ieeexplore.ieee.org/document/9546495
         link_text: Click for full text
         sub_title: 2021. International Conference on Distributed Computing Systems (ICDCS) ‘21. IEEE. DOI https://doi.org/10.1109/ICDCS51616.2021.00085
         description: | # this will include new lines to allow paragraphs
@@ -257,7 +263,8 @@ content:
             url: https://github.com/snuspl/harmony
       - layout: top
         title: "Apache Nemo: A Framework for Building Distributed Dataflow Optimization Policies"
-        link: https://www.usenix.org/system/files/atc19-yang-youngseok.pdf
+        link: https://wonook.github.io/papers/atc19-yang-nemo.pdf
+        # link: https://www.usenix.org/system/files/atc19-yang-youngseok.pdf
         link_text: Click for full text
         sub_title: 2019. USENIX Annual Technical Conference (ATC) ‘19. USENIX Association. ISBN 978-1-939133-03-8. DOI https://dl.acm.org/doi/10.5555/3358807.3358824
         description: | # this will include new lines to allow paragraphs
@@ -274,7 +281,8 @@ content:
             url: https://github.com/apache/incubator-nemo
       - layout: top
         title: "Automating System Configuration of Distributed Machine Learning"
-        link: https://snuspl.github.io/assets/paper/eml.pdf
+        link: https://wonook.github.io/papers/icdcs19-lee-eml.pdf
+        # link: https://snuspl.github.io/assets/paper/eml.pdf
         link_text: Click for full text
         sub_title: 2019. International Conference on Distributed Computing Systems (ICDCS) ‘19. IEEE. ISBN 978-1-7281-2520-6. DOI https://doi.org/10.1109/ICDCS.2019.00203
         description: | # this will include new lines to allow paragraphs
@@ -291,7 +299,8 @@ content:
             url: https://github.com/snuspl/cruise
       - layout: top
         title: "Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters"
-        link: https://snuspl.github.io/assets/paper/p575-Yang.pdf
+        link: https://wonook.github.io/papers/eurosys17-yang-pado.pdf
+        # link: https://snuspl.github.io/assets/paper/p575-Yang.pdf
         link_text: Click for full text
         sub_title: 2017. European Conference on Computer Systems (EuroSys '17). ACM. ISBN 978-1-4503-4938-3. DOI https://doi.org/10.1145/3064176.3064181
         description: | # this will include new lines to allow paragraphs
