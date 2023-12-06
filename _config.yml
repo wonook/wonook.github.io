@@ -68,7 +68,7 @@ content:
         sub_title: Ph.D., Computer Science
         caption: |
           2017 - 2023<br>  
-          Dissertation: <em>Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems</em>
+          Dissertation: <em><a href="https://s-space.snu.ac.kr/bitstream/10371/196490/1/000000177553.pdf">Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems</a></em>
         link: https://en.snu.ac.kr
         description: | # logo
           <div style="text-align: right; margin-top: -140px;" class="hidden-xs hidden-sm">
@@ -428,7 +428,7 @@ content:
           <div style="text-align: center;">
           <img src="https://avatars.githubusercontent.com/u/6446990?s=200&v=4" alt="SPL logo" height="120"/>
           </div>
-          - Dissertation: *Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems*
+          - Dissertation: <a href="https://s-space.snu.ac.kr/bitstream/10371/196490/1/000000177553.pdf">*Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems*</a>
           - My research records demonstrate that I can conduct researches and publish papers in top-level conferences and journals as the first author, as well as collaborate with others as a co-author. Below are the brief explanations for each of the works.
           - First-authored papers (in USENIX ATC, ACM EuroSys, TOCS, APSys)
             - *Blaze* is a data processing system that optimizes caching by coordinating separate layers in a holistic manner to use memory resources effectively.
