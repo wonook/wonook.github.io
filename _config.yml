@@ -402,7 +402,7 @@ content:
         link: https://friendli.ai
         description: | # this will include new lines to allow paragraphs
           <div style="text-align: center;">
-          <img src="https://friendli.ai/_next/static/media/fai-logo-no-bg.1b3d63f0.svg" alt="friendliai logo" height="35"/>
+          <img src="https://wonook.github.io/images/friendliai-sig-blue-fill.png" alt="friendliai logo" height="35"/>
           </div>
           - Start-up experience in building a system for AI and large language models (LLMs)
           - Creating a system to make inference serving efficient
