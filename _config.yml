@@ -529,6 +529,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: "Sponge: Fast Reactive Scaling for Stream Processing with Serverless Frameworks"
+        link: https://youtu.be/mhx0aWhzP6w?si=0LUHQL7rq4D5s-q5
+        sub_title: USENIX ATC 2023 (Annual Technical Conference).
+        caption: JULY 2023
+      - layout: top-middle
         title: Building a Distributed System for Batch & Stream Processing
         link: Undisclosed talk
         sub_title: Spotify Engineering Conference 2022 (SpEC 2022).
@@ -551,7 +556,7 @@ content:
         caption: NOV. 2020
       - layout: top-middle
         title: Fast and Efficient Data Processing with Apache Nemo. (Korean)
-        link: https://tv.naver.com/v/15151364
+        link: https://youtu.be/Gc4-o8n762I?si=udAow673paGkDR0Q&t=1217
         sub_title: Naver Tech Talk 2020, Seoul, South Korea.
         caption: JULY 2020
       - layout: top-middle
