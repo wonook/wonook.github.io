@@ -52,7 +52,7 @@ about_profile_image: images/wonook4_1x1_.jpeg
 about_content: | # this will include new lines to allow paragraphs
   <img src="https://img.shields.io/badge/Interests-Distributed Systems, Clouds, Big Data, Data Processing, Machine Learning-dodgerblue" />  <img src="https://img.shields.io/badge/Languages-English, Korean, French-dodgerblue" />  
    <br>
-  Hi 👋, I'm Won Wook (pronounced as Wonook) and my research interests reside in distributed systems for efficiently processing big data and performing large-scale AI. You can check out my works presented in top-level computer science conferences and journals, including USENIX ATC, ACM EuroSys, and ACM TOCS.  
+  Hi 👋, I'm Won Wook (pronounced as Wonook) and my research interests reside in distributed systems for efficiently processing big data (i.e., batch & stream) and performing large-scale AI. You can check out my works presented in top-level computer science conferences and journals, including USENIX ATC, ACM EuroSys, and ACM TOCS.  
   I finished my Ph.D. in computer science at <a href="https://en.snu.ac.kr">Seoul National University</a> in 2023, under the supervision of <a href="https://bgchun.github.io">Professor Byung-Gon Chun</a>. My dissertation title is "Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems". I also received my B.S. degree in computer science from <a href="https://en.snu.ac.kr">Seoul National University</a> in 2017.
   <br><br><a href="https://docs.google.com/document/d/1S3vEHc9leVQ0NK_5GjvWHoKbbqGtxPJ-8Ka5jIDXzmc/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Click for CV-critical" /></a>
 
@@ -402,12 +402,12 @@ content:
         link: https://friendli.ai
         description: | # this will include new lines to allow paragraphs
           <div style="text-align: center;">
-          <img src="https://wonook.github.io/images/friendliai-sig-blue-fill.png" alt="friendliai logo" height="35"/>
+          <img src="https://wonook.github.io/images/friendliai-sig-blue-fill.png" alt="friendliai logo" height="40"/>
           </div>
           - Start-up experience in building a system for AI and large language models (LLMs)
           - Creating a system to make inference serving efficient
-          - Experience in large-scale cluster management through Kubernetes, Terraform, Helm.
-          - Experience in publishing the company's technical work online (i.e., [https://friendli.ai/blog](https://friendli.ai/blog))
+          - Experience in large-scale cluster management through Kubernetes and Docker (w/ various tools for K8s)
+          - Main author of the company's technical works online (i.e., [https://friendli.ai/blog](https://friendli.ai/blog))
       - layout: left
         title: Software Platform Lab
         sub_title: PhD Candidate.
@@ -439,6 +439,7 @@ content:
             - *Cruise* is a system for automatically adjusting system configurations for distributed ML jobs.
             - *Harmony* is a scheduling framework for optimizing the execution of multiple distributed ML jobs for high utilization of CPU, memory, and network resources.
             - *Pado* is a distributed data processing system that effectively uses cheap transient resources while guaranteeing progress.
+          - Apart from the papers, I've also led to a successful completion of an 8-year grant project funded by the Korean government (IITP of MSIT) (No.2015-0-00221)
       - layout: left
         title: Apache Software Foundation
         sub_title: Started as a GSoC student developer, mentor, and now a project committer and PMC.
@@ -449,7 +450,7 @@ content:
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/320px-Apache_Software_Foundation_Logo_%282016%29.svg.png" alt="apache logo" height="120"/>
           </div>
           - Primary committer and a PMC member on the Apache Nemo incubator project.
-          - Participated as a GSoC mentor in 2017, [2018](https://summerofcode.withgoogle.com/archive/2018/projects/4758094961704960), 2020, [2021](https://summerofcode.withgoogle.com/archive/2021/projects/5555996843311104), [2022](https://summerofcode.withgoogle.com/archive/2022/projects/hNZOOc0x) for ASF to supervise student projects on top of Apache Nemo..
+          - Participated as a GSoC mentor in 2017, [2018](https://summerofcode.withgoogle.com/archive/2018/projects/4758094961704960), 2020, [2021](https://summerofcode.withgoogle.com/archive/2021/projects/5555996843311104), [2022](https://summerofcode.withgoogle.com/archive/2022/projects/hNZOOc0x) for ASF to supervise student projects on top of Apache Nemo.
           - Contributing to other Apache projects as well, such as Apache Beam from 2018.
           - Experiences with open source contribution, and community activities such as preparing and launching releases.
           - Previously a [Google Summer of Code student developer](https://summerofcode.withgoogle.com/archive/2016/projects/5207595501486080) for the Apache REEF project and finished the development of a ssh-standalone mode for running REEF in 2016.
@@ -487,7 +488,7 @@ content:
           <img src="https://www.filmmakers.co.kr/files/member_extra_info/profile_image/061/765/008/8765061.png?20200723134822" alt="butfit logo" height="60"/>
           </div>
           - Part of the start-up team running the ButFitSeoul service, a platform for gathering people for group exercise workout programs, with many thousands of participants.
-          - Used Django, VueJS, Fabric, Unicorn, and cooperated with web designers.
+          - Used Django, VueJS, Fabric, Unicorn, and cooperated with web designers through Figma.
           - Used Git, GitHub, AWS, GCP (Compute/EC2, RDBMS, Storage/S3, etc.)
       - layout: left
         title: ArtMyn
@@ -500,7 +501,7 @@ content:
           <img src="data:image/png;base64,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" alt="artmyn logo" height="115"/>
           </div>
           - Used Django. Took care of the server-side materials (deployment and backend) for the start-up located in EPFL, Lausanne.
-          - See https://artmyn.com
+          - See [https://artmyn.com](https://artmyn.com)
       - layout: left
         title: Systers, Anita Borg Institute
         sub_title: GSoC student developer
@@ -509,10 +510,10 @@ content:
           <div style="text-align: center;">
           <img src="https://wiki.openstack.org/w/images/5/50/GSoC2016Logo.jpg" alt="GSoC logo" height="60"/>
           </div>
-          - Accepted as a student developer for the Google Summer of code project on a Rails web application.
+          - Accepted as a Google Summer of Code student developer for a Rails application project.
           - Used Rails, PostgreSQL, ReactJS, minitest-rails, Capistrano, Passenger.
           - Used Slack, Travis CI, Git/GitHub, Agile for communication, CI, and development.
-          - Experience with working with collaborators scattered around the globe (Asia, America, and Europe).
+          - Experience with working with collaborators around the globe (Asia, America, and Europe)
       - layout: left
         title: YelloMobile
         sub_title: Full-stack web developer
@@ -569,7 +570,15 @@ content:
         link: https://tv.naver.com/v/2293702 
         sub_title: Naver DeView 2017, Seoul, South Korea.
         caption: NOV. 2017
-
+  - title: Other Skills
+    layout: text
+    content: |
+      #### Programming Languages
+      Python, Java, C++, Go, Scala, JavaScript, TypeScript, SQL, HTML/CSS, Ruby, Ocaml, Scheme
+      <br><br>
+      
+      #### Tools, Frameworks & More
+      Kubernetes, Docker / Hadoop, Spark, Flink, Beam / PyTorch, JAX, TensorFlow, Ray, Gym / Git, Jenkins, GitHub, Jira, Notion, Figma / AWS, GCP, Azure, CoreWeave / FastAPI, Flask, Django, VueJS / Maven / PostgreSQL, Redis / Terraform, Helm, Traefik, Argo, Prometheus, gRPC, etcd
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
