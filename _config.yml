@@ -52,7 +52,9 @@ about_profile_image: images/wonook4_1x1_.jpeg
 about_content: | # this will include new lines to allow paragraphs
   <img src="https://img.shields.io/badge/Interests-Distributed Systems, Clouds, Big Data, Data Processing, Machine Learning-dodgerblue" />  <img src="https://img.shields.io/badge/Languages-English, Korean, French-dodgerblue" />  
    <br>
-  Hi 👋, I'm Won Wook (pronounced as Wonook) and my research interests reside in distributed systems for efficiently processing big data (i.e., batch & stream) and performing large-scale AI. You can check out my works presented in top-level computer science conferences and journals, including USENIX ATC, ACM EuroSys, and ACM TOCS.  
+  Hi 👋, I'm Won Wook (pronounced as Wonook) and my research interests reside in distributed systems for efficiently processing big data (i.e., batch & stream) and performing large-scale ML.
+  My recent focuses are on topics regarding efficient systems on inference serving for generative AI, with support for optimizations like continuous batching, KV caching, quantization, and fine-tuning.
+  You can check out my works presented in top-level computer science conferences and journals, including USENIX ATC, ACM EuroSys, and ACM TOCS.  
   I finished my Ph.D. in computer science at <a href="https://en.snu.ac.kr">Seoul National University</a> in 2023, under the supervision of <a href="https://bgchun.github.io">Professor Byung-Gon Chun</a>. My dissertation title is "Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems". I also received my B.S. degree in computer science from <a href="https://en.snu.ac.kr">Seoul National University</a> in 2017.
   <br><br><a href="https://docs.google.com/document/d/1S3vEHc9leVQ0NK_5GjvWHoKbbqGtxPJ-8Ka5jIDXzmc/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Click for CV-critical" /></a>
 
@@ -162,7 +164,7 @@ content:
         title: "*Blaze: Holistic Caching for Iterative Data Processing"
         link: https://wonook.github.io/papers/eurosys24-song-blaze.pdf
         link_text: Click for full text
-        sub_title: To appear in April 2024. European Conference on Computer Systems (EuroSys '24). ACM. DOI https://doi.org/10.1145/3627703.3629558
+        sub_title: 2024. European Conference on Computer Systems (EuroSys '24). ACM. DOI https://doi.org/10.1145/3627703.3629558
         # caption: November 2017 - Present
         # quote: >
           # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -404,13 +406,14 @@ content:
           <div style="text-align: center;">
           <img src="https://wonook.github.io/images/friendliai-sig-blue-fill.png" alt="friendliai logo" height="40"/>
           </div>
-          - Start-up experience in building a system for AI and large language models (LLMs)
-          - Creating a system to make inference serving efficient
+          - Start-up experience in building a system for serving generative AI and large language models (LLMs)
+          - Creating a system to make generative AI serving resource-efficient on GPUs.
           - Experience in large-scale cluster management through Kubernetes and Docker (w/ various tools for K8s)
-          - Main author of the company's technical works online (i.e., [https://friendli.ai/blog](https://friendli.ai/blog))
+          - Our team built support for: continuous batching, KV caching / quantization, MoE / LLM agents (e.g., structured outputs), RAG (e.g., LangChain, vector stores) / prompt engineering (e.g., in-context learning, chain-of-thought), and fine-tuning (e.g., (multi) LoRA and PEFT).
+          - Main author and editor of the company's technical publications online (i.e., [https://friendli.ai/blog](https://friendli.ai/blog)).
       - layout: left
         title: Software Platform Lab
-        sub_title: PhD Candidate.
+        sub_title: PhD Student.
         caption: MAY 2016 - AUG 2023
         link: https://spl.snu.ac.kr
         # link: github.com/sproogen
@@ -466,7 +469,8 @@ content:
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/320px-Microsoft_logo_%282012%29.svg.png" alt="MS logo" height="60"/>
           </div>
           - Worked with the [Network Research Group in MSRA](https://www.microsoft.com/en-us/research/group/networking_research_group/), mentored by Yongqiang Xiong and Wenxue Cheng
-          - Worked with OpenNetLab: open platform for RL-based congestion control for real-time communication, based on the [OpenAI/gym](https://github.com/openai/gym) library.
+          - Worked with OpenNetLab: open platform for RL-based congestion control for real-time communication.
+          - Experience with MS Azure, [OpenAI/gym](https://github.com/openai/gym) library, and PPO.
       # - layout: left
       #   title: Ministry of National Defense, Republic of Korea
       #   sub_title: Technical Research Personnel.
@@ -489,7 +493,7 @@ content:
           </div>
           - Part of the start-up team running the ButFitSeoul service, a platform for gathering people for group exercise workout programs, with many thousands of participants.
           - Used Django, VueJS, Fabric, Unicorn, and cooperated with web designers through Figma.
-          - Used Git, GitHub, AWS, GCP (Compute/EC2, RDBMS, Storage/S3, etc.)
+          - Used Git, GitHub, AWS, GCP (Compute/EC2, RDBMS, Storage/S3, VPC, etc.)
       - layout: left
         title: ArtMyn
         sub_title: Web/server developer in Lausanne, Switzerland (part-time)
@@ -504,7 +508,7 @@ content:
           - See [https://artmyn.com](https://artmyn.com)
       - layout: left
         title: Systers, Anita Borg Institute
-        sub_title: GSoC student developer
+        sub_title: Google Summer of Code (GSoC) student developer
         caption: MAY 2015 - AUG. 2015
         description: | # this will include new lines to allow paragraphs
           <div style="text-align: center;">
