@@ -490,7 +490,7 @@ content:
     content:
       - layout: left
         title: ButFitSeoul
-        sub_title: Full-stack web developer
+        sub_title: Software Engineer
         caption: MAY 2018 - AUG. 2020
         link: https://www.teambutfit.com
         # link_text: Website
@@ -503,7 +503,7 @@ content:
           - Used Git, GitHub, AWS, GCP (Compute/EC2, RDBMS, Storage/S3, VPC, etc.)
       - layout: left
         title: ArtMyn
-        sub_title: Web/server developer in Lausanne, Switzerland (part-time)
+        sub_title: Software Engineer <br>Lausanne, Switzerland (part-time)
         caption: OCT. 2015 - JAN. 2016
         link: https://artmyn.com
         # link_text: Website
@@ -515,7 +515,7 @@ content:
           - See [https://artmyn.com](https://artmyn.com)
       - layout: left
         title: Systers, Anita Borg Institute
-        sub_title: Google Summer of Code (GSoC) student developer
+        sub_title: Google Summer of Code (GSoC) Student Developer
         caption: MAY 2015 - AUG. 2015
         description: | # this will include new lines to allow paragraphs
           <div style="text-align: center;">
@@ -527,7 +527,7 @@ content:
           - Experience with working with collaborators around the globe (Asia, America, and Europe)
       - layout: left
         title: YelloMobile
-        sub_title: Full-stack web developer
+        sub_title: Software Engineer
         caption: JAN. 2015 - APRIL 2015
         description: | # this will include new lines to allow paragraphs
           <div style="text-align: center;">
