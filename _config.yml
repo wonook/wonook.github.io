@@ -411,8 +411,8 @@ content:
           - Start-up experience in building a system for serving generative AI and large language models (LLMs)
           - Creating a system to make generative AI serving resource-efficient on GPUs.
           - Experience in large-scale cluster management through Kubernetes and Docker (w/ various tools for K8s)
-          - Our team built support for: continuous batching, KV caching / quantization, MoE / LLM agents (e.g., structured outputs), RAG (e.g., LangChain, vector stores) / prompt engineering (e.g., in-context learning, chain-of-thought), and fine-tuning (e.g., (multi) LoRA and PEFT).
-          - Main author and editor-in-chief for the company's [technical publications](https://friendli.ai/blog)).
+          - Our team built support for: continuous batching, KV caching / quantization, MoE / LLM agents (e.g., structured outputs, function calling), RAG (e.g., LangChain, vector stores) / prompt engineering (e.g., in-context learning, chain-of-thought), and fine-tuning (e.g., (multi) LoRA and PEFT).
+          - Main author and editor-in-chief for the company's [technical publications](https://friendli.ai/blog).
       - layout: left
         title: Software Platform Lab
         sub_title: PhD Student.
