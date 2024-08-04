@@ -178,12 +178,13 @@ content:
             url: https://wonook.github.io/papers/eurosys24-song-blaze.bib
           - title: Link
             icon: fa fa-paperclip
-            url: https://wonook.github.io/papers/eurosys24-song-blaze.pdf
-            # url: https://doi.org/10.1145/3627703.3629558
+            url: https://doi.org/10.1145/3627703.3629558
           - title: paper
             icon: fa fa-sticky-note-o
-            url: https://wonook.github.io/papers/eurosys24-song-blaze.pdf
-            # url: https://dl.acm.org/doi/pdf/10.1145/3627703.3629558
+            url: https://dl.acm.org/doi/pdf/10.1145/3627703.3629558
+          - title: slides
+            icon: fa fa-file-powerpoint
+            url: https://wonook.github.io/papers/slides/eurosys24-song-blaze-slides.pdf
         #   - title: github
         #     icon: fab fa-github
         #     url: https://github.com/apache/incubator-nemo
@@ -208,6 +209,9 @@ content:
           - title: paper
             icon: fa fa-sticky-note-o
             url: https://www.usenix.org/system/files/atc23-song.pdf
+          - title: slides
+            icon: fa fa-file-powerpoint
+            url: https://www.usenix.org/system/files/atc23_slides_song.pdf
           - title: github
             icon: fab fa-github
             url: https://github.com/apache/incubator-nemo
@@ -232,6 +236,9 @@ content:
           - title: paper
             icon: fa fa-sticky-note-o
             url: https://dl.acm.org/doi/pdf/10.1145/3546591.3547524
+          - title: slides
+            icon: fa fa-file-powerpoint
+            url: https://wonook.github.io/papers/slides/apsys22-song-swan-slides.pdf
           - title: github
             icon: fab fa-github
             url: https://github.com/apache/incubator-nemo
