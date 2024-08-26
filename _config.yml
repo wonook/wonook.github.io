@@ -479,7 +479,7 @@ content:
           </div>
           - Worked with the [Network Research Group in MSRA](https://www.microsoft.com/en-us/research/group/networking_research_group/), mentored by Yongqiang Xiong and Wenxue Cheng
           - Worked with OpenNetLab: open platform for RL-based congestion control for real-time communication.
-          - Experience with AlphaRTC and gym (https://github.com/OpenNetLab) for simulating and optimizing congestion control in production workloads.
+          - Bandwidth estimation through [OpenNetLab](https://github.com/OpenNetLab) for optimizing congestion control in production RTC workloads.
       # - layout: left
       #   title: Ministry of National Defense, Republic of Korea
       #   sub_title: Technical Research Personnel.
