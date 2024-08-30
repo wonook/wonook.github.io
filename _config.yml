@@ -52,7 +52,7 @@ about_profile_image: images/wonook4_1x1_.jpeg
 about_content: | # this will include new lines to allow paragraphs
   <img src="https://img.shields.io/badge/Interests-Distributed Systems, Clouds, Big Data, Data Processing, Machine Learning-dodgerblue" />  <img src="https://img.shields.io/badge/Languages-English, Korean, French-dodgerblue" />  
    <br>
-  Hi 👋, I'm Wonook and my research interests reside in distributed systems for efficiently processing big data (batch & stream) and performing large-scale AI (training & serving). My recent focuses are on topics regarding efficient systems on inference serving for generative AI, with support for optimizations like continuous batching, KV caching, quantization, and fine-tuning. My works are presented at top-level computer science conferences and journals including USENIX ATC, ACM EuroSys, and ACM TOCS.  
+  Hi 👋, I'm Wonook and my research interests reside in *distributed systems* for efficiently processing *big data (batch & stream)* and performing *large-scale AI (inference serving)*. My recent focuses are on topics regarding efficient systems for *data processing* and on *inference serving* for *generative AI*, with support for optimizations like continuous batching, KV caching, quantization, and fine-tuning. My works are presented at top-level computer science conferences and journals including USENIX ATC, ACM EuroSys, and ACM TOCS.  
 
   I finished my Ph.D. in computer science at <a href="https://en.snu.ac.kr">Seoul National University</a> in 2023, under the supervision of <a href="https://bgchun.github.io">Professor Byung-Gon Chun</a>. My dissertation title is "<a href="https://s-space.snu.ac.kr/bitstream/10371/196490/1/000000177553.pdf">Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems</a>". I also received my B.S. degree in computer science from <a href="https://en.snu.ac.kr">Seoul National University</a> in 2017.
   You can check out my list of works on <a href="https://scholar.google.com/citations?user=OKtsXwMAAAAJ">Google Scholar</a> as well.  
@@ -418,7 +418,7 @@ content:
           - Start-up experience in building a system for serving generative AI and large language models (LLMs)
           - Creating a system to make generative AI serving resource-efficient on GPUs.
           - Experience in large-scale cluster management through Kubernetes and Docker (w/ various tools for K8s)
-          - Our team built support for: continuous batching, KV caching / quantization, MoE / LLM agents (e.g., structured outputs, function calling), RAG (e.g., LangChain, vector stores) / prompt engineering (e.g., in-context learning, chain-of-thought), and fine-tuning (e.g., (multi) LoRA and PEFT).
+          - Our team built support for: continuous batching, KV caching / quantization, MoE / LLM agents (e.g., structured outputs, function calling), RAG (e.g., LangChain, vector stores) / prompt engineering, and fine-tuning (e.g., (multi) LoRA and PEFT).
           - Main author and editor-in-chief for the company's [technical publications](https://friendli.ai/blog).
       - layout: left
         title: Software Platform Lab
@@ -443,14 +443,14 @@ content:
           - Dissertation: <a href="https://s-space.snu.ac.kr/bitstream/10371/196490/1/000000177553.pdf">*Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems*</a>
           - My research records demonstrate that I can conduct researches and publish papers in top-level conferences and journals as the first author, as well as collaborate with others as a co-author. Below are the brief explanations for each of the works.
           - First-authored papers (in USENIX ATC, ACM EuroSys, TOCS, APSys)
-            - *Blaze* is a data processing system that optimizes caching by coordinating separate layers in a holistic manner to use memory resources effectively.
-            - *Sponge* is an adaptive and scalable stream processing system leveraging benefits of powerful stable VMs and fast-scaling serverless frameworks.
-            - *SWAN* is a stream processing system that adaptively utilizes optimal network connections under globally distributed computing clusters.
-            - Published a journal paper (first-authored) and a conference paper (co-authored) for the *Apache Nemo* project that flexibly builds dataflow optimization policies.
+            - *Blaze* is a data processing system that optimizes caching for iterative workloads (i.e. ML, graph processing) by coordinating separate layers in a holistic manner to use memory resources effectively.
+            - *Sponge* is an adaptive and scalable stream processing system to handle bursty inputs by leveraging benefits of powerful stable VMs and fast-scaling serverless frameworks.
+            - *SWAN* is a stream processing system that adaptively utilizes optimal network connections under low-bandwidth high-latency globally distributed computing clusters.
+            - Published a journal paper (first-authored) and a conference paper (co-authored) for the *Apache Nemo* project that flexibly builds dataflow optimization policies through customizable task scheduling and data communication.
           - Co-authored papers (in USENIX ATC, ACM EuroSys, IEEE ICDCS)
             - *Cruise* is a system for automatically adjusting system configurations for distributed ML jobs.
             - *Harmony* is a scheduling framework for optimizing the execution of multiple distributed ML jobs for high utilization of CPU, memory, and network resources.
-            - *Pado* is a distributed data processing system that effectively uses cheap transient resources while guaranteeing progress.
+            - *Pado* is a distributed data processing system that effectively uses preemptible spot (transient) resources while guaranteeing progress.
           - Apart from the papers, I've also led to a successful completion of an 8-year grant project funded by the Korean government (IITP of MSIT) (No.2015-0-00221)
       - layout: left
         title: Apache Software Foundation
