@@ -52,7 +52,7 @@ about_profile_image: images/wonook4_1x1_.jpeg
 about_content: | # this will include new lines to allow paragraphs
   <img src="https://img.shields.io/badge/Interests-Distributed Systems, Clouds, Big Data, Data Processing, Machine Learning-dodgerblue" />  <img src="https://img.shields.io/badge/Languages-English, Korean, French-dodgerblue" />  
    <br>
-  Hi 👋, I'm Wonook and my research interests reside in *distributed systems* for efficiently processing *big data (batch & stream)* and performing *large-scale AI (inference serving)*. My recent focuses are on topics regarding efficient systems for *data processing* and on *inference serving* for *generative AI*, with support for optimizations like continuous batching, KV caching, quantization, and fine-tuning. My works are presented at top-level computer science conferences and journals including USENIX ATC, ACM EuroSys, and ACM TOCS.  
+  Hi 👋, I'm Wonook and my research interests reside in *distributed systems* for efficiently processing *big data (batch & stream)* and performing *large-scale AI (inference serving)*. My recent focuses are on topics regarding efficient systems for *data processing* and on *inference serving* for *generative AI*, with support for optimizations like batching, caching, parallelization, kernel optimization, and quantization. My works are presented at top-level computer science conferences and journals including USENIX ATC, ACM EuroSys, and ACM TOCS.
 
   I finished my Ph.D. in computer science at <a href="https://en.snu.ac.kr">Seoul National University</a> in 2023, under the supervision of <a href="https://bgchun.github.io">Professor Byung-Gon Chun</a>. My dissertation title is "<a href="https://s-space.snu.ac.kr/bitstream/10371/196490/1/000000177553.pdf">Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems</a>". I also received my B.S. degree in computer science from <a href="https://en.snu.ac.kr">Seoul National University</a> in 2017.
   You can check out my list of works on <a href="https://scholar.google.com/citations?user=OKtsXwMAAAAJ">Google Scholar</a> as well.  
@@ -415,11 +415,11 @@ content:
           <div style="text-align: center;">
           <img src="https://wonook.github.io/images/friendliai-sig-blue-fill.png" alt="friendliai logo" height="40"/>
           </div>
-          - Start-up experience in building a system for serving generative AI and large language models (LLMs)
-          - Creating a system to make generative AI serving resource-efficient on GPUs.
-          - Experience in large-scale cluster management through Kubernetes and Docker (w/ various tools for K8s)
-          - Our team built support for: continuous batching, KV caching / quantization, MoE / LLM agents (e.g., structured outputs, function calling), RAG (e.g., LangChain, vector stores) / prompt engineering, and fine-tuning (e.g., (multi) LoRA and PEFT).
-          - Main author and editor-in-chief for the company's [technical publications](https://friendli.ai/blog).
+          - Start-up experience in building an efficient system for serving AI and large language models (LLM).
+          - Creating a system to make generative AI serving more resource-efficient on single/multiple GPUs.
+          - Our team built support for: continuous batching, KV caching, adaptive & dynamic inference / tensor & pipeline parallelization, kernel optimization (e.g., FlashAttn) / quantization, MoE / LLM agents (e.g., structured outputs), RAG (e.g., vector stores), and fine-tuning (e.g., (multi) LoRA and PEFT).
+          - Experience in large-scale cluster management through K8s and Docker (w/ various tools).
+          - Main author and editor-in-chief of the company's [technical publications](https://friendli.ai/blog).
       - layout: left
         title: Software Platform Lab
         sub_title: PhD Student.
@@ -600,7 +600,7 @@ content:
       <br><br>
 
       #### Visa Status
-      My US green card is to be issued in December, 2024 via EB2-NIW.
+      My US green card is to be issued in early 2025 via EB2-NIW.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
