@@ -52,7 +52,7 @@ about_profile_image: images/wonook4_1x1_.jpeg
 about_content: | # this will include new lines to allow paragraphs
   <img src="https://img.shields.io/badge/Interests-Distributed Systems, Clouds, Big Data, Data Processing, Machine Learning-dodgerblue" />  <img src="https://img.shields.io/badge/Languages-English, Korean, French-dodgerblue" />  
    <br>
-  Hi 👋, I'm Wonook and my research interests reside in *distributed systems* for efficiently processing *big data (batch & stream)* and performing *large-scale AI (inference serving)*. My recent focuses are on topics regarding efficient systems for *data processing* and on *inference serving* for *generative AI*, with support for optimizations like batching, caching, parallelization, kernel optimization, and quantization. My works are presented at top-level computer science conferences and journals including USENIX ATC, ACM EuroSys, and ACM TOCS.
+  Hi 👋, I'm Wonook and my research interests reside in *distributed systems* for efficiently processing *big data (batch & stream)* and performing *large-scale AI (training & serving)*. My recent focuses are on topics regarding efficient systems for *data processing* (e.g., resource optimization in diverse settings) and *generative AI* (e.g., parallelization, batching, caching, kernel optimization, and quantization). My works are presented at top-level computer science conferences and journals including USENIX ATC, ACM EuroSys, and ACM TOCS.
 
   I finished my Ph.D. in computer science at <a href="https://en.snu.ac.kr">Seoul National University</a> in 2023, under the supervision of <a href="https://bgchun.github.io">Professor Byung-Gon Chun</a>. My dissertation title is "<a href="https://s-space.snu.ac.kr/bitstream/10371/196490/1/000000177553.pdf">Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems</a>". I also received my B.S. degree in computer science from <a href="https://en.snu.ac.kr">Seoul National University</a> in 2017.
   You can check out my list of works on <a href="https://scholar.google.com/citations?user=OKtsXwMAAAAJ">Google Scholar</a> as well.  
@@ -415,14 +415,13 @@ content:
           <div style="text-align: center;">
           <img src="https://wonook.github.io/images/friendliai-sig-blue-fill.png" alt="friendliai logo" height="40"/>
           </div>
-          - Start-up experience in building an efficient system for serving AI and large language models (LLM).
-          - Creating a system to make generative AI serving more resource-efficient on single/multiple GPUs.
-          - Our team built support for: continuous batching, KV caching, adaptive & dynamic inference / tensor & pipeline parallelization, kernel optimization (e.g., FlashAttn) / quantization, MoE / LLM agents (e.g., structured outputs), RAG (e.g., vector stores), and fine-tuning (e.g., (multi) LoRA and PEFT).
-          - Experience in large-scale cluster management through K8s and Docker (w/ various tools).
-          - Main author and editor-in-chief of the company's [technical publications](https://friendli.ai/blog).
+          - Start-up experience in building a resource-efficient system for serving AI and large language models (LLM) on GPGPUs (i.e., a closed-source system similar to vLLM/TensorRT-LLM).
+          - Our team built support for: continuous batching, KV caching, adaptive & dynamic inference / tensor & pipeline parallelization, kernel optimization (e.g., FlashAttn) / quantization, MoE / agents & tools (e.g., structured outputs), RAG (e.g., vector stores), and fine-tuning (e.g., (multi) LoRA and PEFT).
+          - Experience in scalable large-scale cluster management through K8s and Docker (w/ various tools).
+          - Also the main author and editor-in-chief of the company's [technical publications](https://friendli.ai/blog).
       - layout: left
         title: Software Platform Lab
-        sub_title: PhD Student.
+        sub_title: PhD Candidate.
         caption: MAY 2016 - AUG 2023
         link: https://spl.snu.ac.kr
         # link: github.com/sproogen
@@ -441,10 +440,10 @@ content:
           <img src="https://avatars.githubusercontent.com/u/6446990?s=200&v=4" alt="SPL logo" height="120"/>
           </div>
           - Dissertation: <a href="https://s-space.snu.ac.kr/bitstream/10371/196490/1/000000177553.pdf">*Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems*</a>
-          - My research records demonstrate that I can conduct researches and publish papers in top-level conferences and journals as the first author, as well as collaborate with others as a co-author. Below are the brief explanations for each of the works.
+          - My research records demonstrate that I can *conduct researches and publish papers* in top-level conferences and journals as the first author, as well as *collaborate with others* as a co-author. Below are the brief explanations for each of the works.
           - First-authored papers (in USENIX ATC, ACM EuroSys, TOCS, APSys)
             - *Blaze* is a data processing system that optimizes caching for iterative workloads (i.e. ML, graph processing) by coordinating separate layers in a holistic manner to use memory resources effectively.
-            - *Sponge* is an adaptive and scalable stream processing system to handle bursty inputs by leveraging benefits of powerful stable VMs and fast-scaling serverless frameworks.
+            - *Sponge* is an adaptive and scalable stream processing system to handle bursty inputs by leveraging benefits of powerful stable VMs and fast-scaling serverless frameworks with special operators.
             - *SWAN* is a stream processing system that adaptively utilizes optimal network connections under low-bandwidth high-latency globally distributed computing clusters.
             - Published a journal paper (first-authored) and a conference paper (co-authored) for the *Apache Nemo* project that flexibly builds dataflow optimization policies through customizable task scheduling and data communication.
           - Co-authored papers (in USENIX ATC, ACM EuroSys, IEEE ICDCS)
@@ -464,9 +463,8 @@ content:
           - Primary committer and a PMC member on the Apache Nemo incubator project.
           - Participated as a GSoC mentor in 2017, [2018](https://summerofcode.withgoogle.com/archive/2018/projects/4758094961704960), 2020, [2021](https://summerofcode.withgoogle.com/archive/2021/projects/5555996843311104), [2022](https://summerofcode.withgoogle.com/archive/2022/projects/hNZOOc0x) for ASF to supervise student projects on top of Apache Nemo.
           - Contributing to other Apache projects as well, such as Apache Beam from 2018.
-          - Experiences with open source contribution, and community activities such as preparing and launching releases.
-          - Previously a [Google Summer of Code student developer](https://summerofcode.withgoogle.com/archive/2016/projects/5207595501486080) for the Apache REEF project and finished the development of a ssh-standalone mode for running REEF in 2016.
-          - Apache REEF is a library that facilitates building of distributed systems in cluster environments with a master and multiple workers.
+          - Experiences with open source contribution, and community activities, including preparing and launching releases.
+          - Previously a [Google Summer of Code student developer](https://summerofcode.withgoogle.com/archive/2016/projects/5207595501486080) for the Apache REEF project and finished the development of a ssh-standalone mode for running REEF in 2016, a library from MS that facilitates building of distributed systems in cluster environments with a master and multiple workers.
           - Experience with tools like Apache Maven, JIRA, Git/GitHub, and many more.
       - layout: left
         title: Microsoft Research
@@ -477,9 +475,8 @@ content:
           <div style="text-align: center;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/320px-Microsoft_logo_%282012%29.svg.png" alt="MS logo" height="60"/>
           </div>
-          - Worked with the [Network Research Group in MSRA](https://www.microsoft.com/en-us/research/group/networking_research_group/), mentored by Yongqiang Xiong and Wenxue Cheng
-          - Worked with OpenNetLab: open platform for RL-based congestion control for real-time communication.
-          - Bandwidth estimation through [OpenNetLab](https://github.com/OpenNetLab) for optimizing congestion control in production RTC workloads.
+          - Worked with the [Network Research Group in MSRA](https://www.microsoft.com/en-us/research/group/networking_research_group/), mentored by Yongqiang Xiong and Wenxue Cheng, centering on reinforcement learning (i.e., involving simulators and evaluators)
+          - Worked with [OpenNetLab](https://github.com/OpenNetLab): open platform for RL-based congestion control for real-time communication, using bandwidth estimation for optimizing congestion control in production RTC workloads.
       # - layout: left
       #   title: Ministry of National Defense, Republic of Korea
       #   sub_title: Technical Research Personnel.
@@ -596,7 +593,7 @@ content:
       <br><br>
       
       #### Tools, Frameworks & More
-      Kubernetes, Docker / Hadoop, Spark, Flink, Beam / PyTorch, JAX, TensorFlow, Ray, Gym / Git, Jenkins, GitHub, Jira, Notion, Figma / AWS, GCP, Azure, CoreWeave / FastAPI, Flask, Django, VueJS / Maven / PostgreSQL, Redis / Terraform, Helm, Traefik, Argo, Prometheus, gRPC, etcd
+      Kubernetes, Docker / vLLM, TensorRT-LLM / Hadoop, YARN, Spark, Flink, Beam / PyTorch, TensorFlow, Ray, Gym / CUDA / Git, Jenkins, GitHub, Jira, Notion, Figma / AWS, GCP, Azure, CoreWeave / FastAPI, Flask, Django, VueJS / Maven / PostgreSQL, Redis / Terraform, Helm, Traefik, Argo, Prometheus, gRPC, etcd
       <br><br>
 
       #### Visa Status
@@ -613,6 +610,7 @@ content:
       - Cycling 🚴‍♂️
       - Swimming 🏊‍♂️
       - My Italian motorbike 🛵
+      - Philosophy 📖
       - Photography 📷
       - Travelling 🎒✈️
       - Wine 🍷
