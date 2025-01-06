@@ -416,6 +416,7 @@ content:
           <img src="https://wonook.github.io/images/friendliai-sig-blue-fill.png" alt="friendliai logo" height="40"/>
           </div>
           - Start-up experience in building a resource-efficient system for serving AI and large language models (LLM) on GPGPUs (i.e., a closed-source system similar to vLLM/TensorRT-LLM).
+          - Built the fastest LLM engine in the world running on GPGPUs, reported by [artificialanalysis.ai](https://artificialanalysis.ai/models/llama-3-1-instruct-70b/providers).
           - Our team built support for: continuous batching, KV caching, adaptive & dynamic inference / tensor & pipeline parallelization, kernel optimization (e.g., FlashAttn) / quantization, MoE / agents & tools (e.g., structured outputs), RAG (e.g., vector stores), and fine-tuning (e.g., (multi) LoRA and PEFT).
           - Experience in scalable large-scale cluster management through K8s and Docker (w/ various tools).
           - Also the main author and editor-in-chief of the company's [technical publications](https://friendli.ai/blog).
