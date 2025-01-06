@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Wonook SONG, Ph.D.
-title: Researcher in Distributed Computer Systems for AI and Big Data
+title: Researcher in Computer Systems for AI and Big Data
 email: wonook@apache.org
 # phone: https://tinyurl.com/WonookCV
 # phone_title: CV
@@ -408,8 +408,8 @@ content:
     content:
       - layout: left
         title: FriendliAI
-        sub_title: Researcher.
-        caption: SEPT 2023 - PRESENT
+        sub_title: AI System Engineer/Researcher.
+        caption: SEPT 2023 - JAN 2025
         link: https://friendli.ai
         description: | # this will include new lines to allow paragraphs
           <div style="text-align: center;">
@@ -593,11 +593,11 @@ content:
       <br><br>
       
       #### Tools, Frameworks & More
-      Kubernetes, Docker / vLLM, TensorRT-LLM / Hadoop, YARN, Spark, Flink, Beam / PyTorch, TensorFlow, Ray, Gym / CUDA / Git, Jenkins, GitHub, Jira, Notion, Figma / AWS, GCP, Azure, CoreWeave / FastAPI, Flask, Django, VueJS / Maven / PostgreSQL, Redis / Terraform, Helm, Traefik, Argo, Prometheus, gRPC, etcd
+      Kubernetes, Docker, containerd / vLLM, TensorRT-LLM / Hadoop, YARN, Spark, Flink, Beam, Kafka / PyTorch, TensorFlow, Ray, Gym / CUDA / Git, Jenkins, GitHub, Jira, Notion, Figma / Cloud, AWS, GCP, Azure, CoreWeave / FastAPI, Flask, Django, VueJS / Maven / PostgreSQL, MongoDB, Redis / Terraform, Helm, Traefik, Argo, Prometheus, Grafana, gRPC, etcd
       <br><br>
 
       #### Visa Status
-      My US green card is to be issued in early 2025 via EB2-NIW.
+      My US green card is to be issued in Spring 2025 via EB2-NIW.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
