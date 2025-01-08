@@ -546,19 +546,24 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: "Blaze: Holistic Caching for Iterative Data Processing"
+        link: https://youtu.be/vKdXzP7kDgQ?si=YyLxQTGRyLVoaPNm
+        sub_title: ACM EuroSys 2024 (European Conference on Computer Systems), Athens, Greece.
+        caption: APR. 2024
+      - layout: top-middle
         title: "Sponge: Fast Reactive Scaling for Stream Processing with Serverless Frameworks"
         link: https://youtu.be/mhx0aWhzP6w?si=0LUHQL7rq4D5s-q5
-        sub_title: USENIX ATC 2023 (Annual Technical Conference).
+        sub_title: USENIX ATC 2023 (Annual Technical Conference), Boston, USA.
         caption: JULY 2023
       - layout: top-middle
         title: Building a Distributed System for Batch & Stream Processing
         link: Undisclosed talk
-        sub_title: Spotify Engineering Conference 2022 (SpEC 2022).
+        sub_title: Spotify Engineering Conference 2022 (SpEC 2022), Stockholm, Sweden.
         caption: MAY 2022
       - layout: top-middle
         title: Flexible Optimizations and Efficient Execution of Data Processing on Apache Nemo
         link: https://youtu.be/lFCuiL9ZRWk
-        sub_title: ApacheCon Asia 2021.
+        sub_title: ApacheCon Asia 2021, Online.
         caption: AUG. 2021
       - layout: top-middle
         title: Running Apache Beam Programs on Apache Nemo
