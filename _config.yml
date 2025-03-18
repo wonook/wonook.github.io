@@ -48,7 +48,7 @@ gtag: "G-CD8QRK5MDY"
 
 # About Section
 # about_title: About Me
-about_profile_image: images/wonook4_1x1_.jpeg
+about_profile_image: images/wonook5_1x1_.jpeg
 about_content: | # this will include new lines to allow paragraphs
   <img src="https://img.shields.io/badge/Interests-Distributed Systems, Clouds, Big Data, Data Processing, Machine Learning-dodgerblue" />  <img src="https://img.shields.io/badge/Languages-English, Korean, French-dodgerblue" />  
    <br>
