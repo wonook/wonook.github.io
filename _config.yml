@@ -52,7 +52,7 @@ about_profile_image: images/wonook5_1x1_.jpeg
 about_content: | # this will include new lines to allow paragraphs
   <img src="https://img.shields.io/badge/Interests-Distributed Systems, Clouds, Big Data, Data Processing, Machine Learning-dodgerblue" />  <img src="https://img.shields.io/badge/Languages-English, Korean, French-dodgerblue" />  
    <br>
-  Hi 👋, I'm Wonook and my research interests reside in *distributed systems* for efficiently processing *big data (batch & stream)* and performing *large-scale AI (training & serving)*. My recent focuses are on topics regarding efficient systems for *data processing* (e.g., resource optimization in diverse settings) and *generative AI* (e.g., parallelization, batching, caching, kernel optimization, and quantization). My works are presented at top-level computer science conferences and journals including USENIX ATC, ACM EuroSys, and ACM TOCS.
+  Hi 👋, I'm Wonook and my research interests reside in *distributed systems* for efficiently processing *big data (batch & stream)* and running *efficient AI (mostly serving)*. My recent focuses are on topics regarding efficient systems for *data processing* (e.g., resource optimization in diverse settings) and *generative AI* (e.g., parallelization, batching, caching, kernel optimization, and quantization). My works are presented at top-level computer science conferences and journals including USENIX ATC, ACM EuroSys, and ACM TOCS.
 
   I finished my Ph.D. in computer science at <a href="https://en.snu.ac.kr">Seoul National University</a> in 2023, under the supervision of <a href="https://bgchun.github.io">Professor Byung-Gon Chun</a>. My dissertation title is "<a href="https://s-space.snu.ac.kr/bitstream/10371/196490/1/000000177553.pdf">Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems</a>". I also received my B.S. degree in computer science from <a href="https://en.snu.ac.kr">Seoul National University</a> in 2017.
   You can check out my list of works on <a href="https://scholar.google.com/citations?user=OKtsXwMAAAAJ">Google Scholar</a> as well.  
@@ -415,7 +415,7 @@ content:
           <div style="text-align: center;">
           <img src="https://www-file.huawei.com/-/media/corporate/images/home/logo/huawei_logo.png" alt="huawei logo" height="50"/>
           </div>
-          - Senior Research Scientist in Computing Systems, focusing on OS, Storage, and Memory
+          - Senior Research Scientist in Computing Systems, focusing on OS, Storage, Memory, and AI
       - layout: left
         title: FriendliAI
         sub_title: AI System Engineer/Researcher.
@@ -426,7 +426,7 @@ content:
           <img src="https://wonook.github.io/images/friendliai-sig-blue-fill.png" alt="friendliai logo" height="40"/>
           </div>
           - Start-up experience in building a resource-efficient system for serving AI and large language models (LLM) on GPGPUs (i.e., a closed-source system similar to vLLM/TensorRT-LLM).
-          - Built the fastest LLM engine in the world running on GPGPUs, reported by [artificialanalysis.ai](https://artificialanalysis.ai/models/llama-3-1-instruct-70b/providers).
+          - Built the fastest LLM engine in the world (at the time) running on GPGPUs, reported by [artificialanalysis.ai](https://artificialanalysis.ai/models/llama-3-1-instruct-70b/providers).
           - Our team built support for: continuous batching, KV caching, adaptive & dynamic inference / tensor & pipeline parallelization, kernel optimization (e.g., FlashAttn) / quantization, MoE / agents & tools (e.g., structured outputs), RAG (e.g., vector stores), and fine-tuning (e.g., (multi) LoRA and PEFT).
           - Experience in scalable large-scale cluster management through K8s and Docker (w/ various tools).
           - Also the main author and editor-in-chief of the company's [technical publications](https://friendli.ai/blog).
