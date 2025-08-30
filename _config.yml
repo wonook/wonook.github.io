@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
   I finished my Ph.D. in computer science at <a href="https://en.snu.ac.kr">Seoul National University</a> in 2023, under the supervision of <a href="https://bgchun.github.io">Professor Byung-Gon Chun</a>. My dissertation title is "<a href="https://s-space.snu.ac.kr/bitstream/10371/196490/1/000000177553.pdf">Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems</a>". I also received my B.S. degree in computer science from <a href="https://en.snu.ac.kr">Seoul National University</a> in 2017.
   You can check out my list of works on <a href="https://scholar.google.com/citations?user=OKtsXwMAAAAJ">Google Scholar</a> as well.  
 
-  Apart from work, I do a lot of sports (mainly tennis, golf, and BJJ nowadays), learn new languages, and meet new people. Due to my experience living around the world, I happen to be a motivation-driven, multicultural person with a flexible mind, who is open, adaptive, and a fast learner for new knowledge and people.  
+  Apart from work, I do a lot of sports (mainly tennis, golf, and BJJ nowadays), learn new languages, and meet new people. Due to my experience living around the world, I happen to be a motivation-driven, multicultural person with a flexible mindset and a fast-learning, open, adaptive attitude for new knowledge and people.  
   <br><a href="https://docs.google.com/document/d/1S3vEHc9leVQ0NK_5GjvWHoKbbqGtxPJ-8Ka5jIDXzmc/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Click for my CV-critical" /></a>
 
 # <a href="mailto:wonook@apache.org"><img src="https://img.shields.io/badge/I'm looking for a job!-critical" /></a>
@@ -416,6 +416,7 @@ content:
           <img src="https://www-file.huawei.com/-/media/corporate/images/home/logo/huawei_logo.png" alt="huawei logo" height="50"/>
           </div>
           - Senior Research Scientist in Computing Systems, focusing on OS, Storage, Memory, and AI
+          - Open to collaboration opportunities!
       - layout: left
         title: FriendliAI
         sub_title: AI System Engineer/Researcher.
@@ -427,7 +428,7 @@ content:
           </div>
           - Start-up experience in building a resource-efficient system for serving AI and large language models (LLM) on GPGPUs (i.e., a closed-source system similar to vLLM/TensorRT-LLM).
           - Built the fastest LLM engine in the world (at the time) running on GPGPUs, reported by [artificialanalysis.ai](https://artificialanalysis.ai/models/llama-3-3-instruct-70b/providers).
-          - Our team built support for: continuous batching, KV caching, adaptive & dynamic inference / tensor & pipeline parallelization, kernel optimization (e.g., FlashAttn) / quantization, MoE / agents & tools (e.g., structured outputs), RAG (e.g., vector stores), and fine-tuning (e.g., (multi) LoRA and PEFT).
+          - Our team built support for features like continuous batching, KV caching, adaptive & dynamic inference / tensor & pipeline parallelization, kernel optimization (e.g., FlashAttn) / quantization, MoE / agents & tools (e.g., structured outputs), RAG (e.g., vector stores), and fine-tuning (e.g., (multi) LoRA and PEFT).
           - Experience in scalable large-scale cluster management through K8s and Docker (w/ various tools).
           - Also the main author and editor-in-chief of the company's [technical publications](https://friendli.ai/blog).
       - layout: left
@@ -613,6 +614,7 @@ content:
       <br><br>
 
       #### Visa Status
+      Swiss Residence Permit B.
       US green card via EB2-NIW.
   - title: A Little More About Me
     layout: text
