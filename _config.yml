@@ -64,6 +64,157 @@ about_content: | # this will include new lines to allow paragraphs
 # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
+
+  - title: Experiences # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Huawei Zurich Research Center, Switzerland
+        sub_title: Senior Research Scientist in Computing Systems.
+        caption: MAY 2025 - CURRENT
+        link: https://www.huawei.com/ch-en/corporate-information/local-states
+        description: | # this will include new lines to allow paragraphs
+          <div style="text-align: center;">
+          <img src="https://www-file.huawei.com/-/media/corporate/images/home/logo/huawei_logo.png" alt="huawei logo" height="50"/>
+          </div>
+          - Senior Research Scientist in Computing Systems, focusing on OS, Storage, Memory, and AI
+          - Open to collaboration opportunities!
+      - layout: left
+        title: FriendliAI
+        sub_title: AI System Engineer/Researcher.
+        caption: SEPT 2023 - JAN 2025
+        link: https://friendli.ai
+        description: | # this will include new lines to allow paragraphs
+          <div style="text-align: center;">
+          <img src="https://wonook.github.io/images/friendliai-sig-blue-fill.png" alt="friendliai logo" height="40"/>
+          </div>
+          - Start-up experience in building a resource-efficient system for serving AI and large language models (LLM) on GPGPUs (i.e., a closed-source system similar to vLLM/TensorRT-LLM).
+          - Built the fastest LLM engine in the world (at the time) running on GPGPUs, reported by [artificialanalysis.ai](https://artificialanalysis.ai/models/llama-3-3-instruct-70b/providers).
+          - Our team built support for features like continuous batching, KV caching, adaptive & dynamic inference / tensor & pipeline parallelization, kernel optimization (e.g., FlashAttn) / quantization, MoE / agents & tools (e.g., structured outputs), RAG (e.g., vector stores), and fine-tuning (e.g., (multi) LoRA and PEFT).
+          - Experience in scalable large-scale cluster management through K8s and Docker (w/ various tools).
+          - Also the main author and editor-in-chief of the company's [technical publications](https://friendli.ai/blog).
+      - layout: left
+        title: Microsoft Research
+        sub_title: Research Intern.
+        caption: DEC. 2020 - JUNE 2021
+        link: https://www.microsoft.com/research
+        description: | # this will include new lines to allow paragraphs
+          <div style="text-align: center;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/320px-Microsoft_logo_%282012%29.svg.png" alt="MS logo" height="60"/>
+          </div>
+          - Worked with the [Network Research Group in MSRA](https://www.microsoft.com/en-us/research/group/networking_research_group/), mentored by Yongqiang Xiong and Wenxue Cheng, centering on reinforcement learning (i.e., involving simulators and evaluators)
+          - Worked with [OpenNetLab](https://github.com/OpenNetLab): open platform for RL-based congestion control for real-time communication, using bandwidth estimation for optimizing congestion control in production RTC workloads.
+      - layout: left
+        title: Software Platform Lab
+        sub_title: PhD Candidate.
+        caption: MAY 2016 - AUG 2023
+        link: https://spl.snu.ac.kr
+        # link: github.com/sproogen
+        # link_text: Project Website
+        # additional_links:
+          # - title:  sproogen/modern-resume-theme
+          #   icon: fab fa-github
+          #   url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+          # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          <div style="text-align: center;">
+          <img src="https://avatars.githubusercontent.com/u/6446990?s=200&v=4" alt="SPL logo" height="120"/>
+          </div>
+          - Dissertation: <a href="https://s-space.snu.ac.kr/bitstream/10371/196490/1/000000177553.pdf">*Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems*</a>
+          - My research records demonstrate that I can *conduct researches and publish papers* in top-level conferences and journals as the first author, as well as *collaborate with others* as a co-author. Below are the brief explanations for each of the works.
+          - First-authored papers (in USENIX ATC, ACM EuroSys, TOCS, APSys)
+            - *Blaze* is a data processing system that optimizes caching for iterative workloads (i.e. ML, graph processing) by coordinating separate layers in a holistic manner to use memory resources effectively.
+            - *Sponge* is an adaptive and scalable stream processing system to handle bursty inputs by leveraging benefits of powerful stable VMs and fast-scaling serverless frameworks with special operators.
+            - *SWAN* is a stream processing system that adaptively utilizes optimal network connections under low-bandwidth high-latency globally distributed computing clusters.
+            - Published a journal paper (first-authored) and a conference paper (co-authored) for the *Apache Nemo* project that flexibly builds dataflow optimization policies through customizable task scheduling and data communication.
+          - Co-authored papers (in USENIX ATC, ACM EuroSys, IEEE ICDCS)
+            - *Cruise* is a system for automatically adjusting system configurations for distributed ML jobs.
+            - *Harmony* is a scheduling framework for optimizing the execution of multiple distributed ML jobs for high utilization of CPU, memory, and network resources.
+            - *Pado* is a distributed data processing system that effectively uses preemptible spot (transient) resources while guaranteeing progress.
+          - Apart from the papers, I've also led to a successful completion of an 8-year grant project funded by the Korean government (IITP of MSIT) (No.2015-0-00221)
+      - layout: left
+        title: Apache Software Foundation
+        sub_title: Started as a GSoC student developer, mentor, and now a project committer and PMC.
+        caption: MAY 2016 - PRESENT
+        link: https://www.apache.org
+        description: | # this will include new lines to allow paragraphs
+          <div style="text-align: center;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/320px-Apache_Software_Foundation_Logo_%282016%29.svg.png" alt="apache logo" height="120"/>
+          </div>
+          - Primary committer and a PMC member on the Apache Nemo incubator project.
+          - Participated as a GSoC mentor in 2017, [2018](https://summerofcode.withgoogle.com/archive/2018/projects/4758094961704960), 2020, [2021](https://summerofcode.withgoogle.com/archive/2021/projects/5555996843311104), [2022](https://summerofcode.withgoogle.com/archive/2022/projects/hNZOOc0x) for ASF to supervise student projects on top of Apache Nemo.
+          - Contributing to other Apache projects as well, such as Apache Beam from 2018.
+          - Experiences with open source contribution, and community activities, including preparing and launching releases.
+          - Previously a [Google Summer of Code student developer](https://summerofcode.withgoogle.com/archive/2016/projects/5207595501486080) for the Apache REEF project and finished the development of a ssh-standalone mode for running REEF in 2016, a library from MS that facilitates building of distributed systems in cluster environments with a master and multiple workers.
+          - Experience with tools like Apache Maven, JIRA, Git/GitHub, and many more.
+      # - layout: left
+      #   title: Ministry of National Defense, Republic of Korea
+      #   sub_title: Technical Research Personnel.
+      #   caption: SEPT. 2020 - AUG. 2023
+      #   link: https://www.mnd.go.kr/mbshome/mbs/mndEN/
+      #   description: | # this will include new lines to allow paragraphs
+      #     <div style="text-align: center;">
+      #     <img src="https://i.namu.wiki/i/Hb-n_XhiZw5ubuNkLAaB7ITtCJxt5arniDBsZAQYrQVxsMDvLkhM0bQLEbHartzx6WqwB-wEbMxlm4-rK34p8WTKg8YYA5qsOCBUUGwcscnwJdEouP-S8qQ-7OoiQ5jZfZKr0_MmohFYzjb8AkyptQ.svg" alt="MND logo" height="60"/>
+      #     </div>
+      #     - Served the military duty of Republic of Korea as a Technical Research Personnel.
+  
+  - title: Past Experiences # Title for the section
+    collapsible: true
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: ButFitSeoul
+        sub_title: Software Engineer
+        caption: MAY 2018 - AUG. 2020
+        link: https://www.teambutfit.com
+        # link_text: Website
+        description: | # this will include new lines to allow paragraphs
+          <div style="text-align: center;">
+          <img src="https://www.filmmakers.co.kr/files/member_extra_info/profile_image/061/765/008/8765061.png?20200723134822" alt="butfit logo" height="60"/>
+          </div>
+          - Part of the start-up team running the ButFitSeoul service, a platform for gathering people for group exercise workout programs, with many thousands of participants.
+          - Used Django, VueJS, Fabric, Unicorn, and cooperated with web designers through Figma.
+          - Used Git, GitHub, AWS, GCP (Compute/EC2, RDBMS, Storage/S3, VPC, etc.)
+      - layout: left
+        title: ArtMyn
+        sub_title: Software Engineer <br>Lausanne, Switzerland (part-time)
+        caption: OCT. 2015 - JAN. 2016
+        link: https://artmyn.com
+        # link_text: Website
+        description: | # this will include new lines to allow paragraphs
+          <div style="text-align: center;">
+          <img src="data:image/png;base64,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" alt="artmyn logo" height="115"/>
+          </div>
+          - Used Django. Took care of the server-side materials (deployment and backend) for the start-up located in EPFL, Lausanne.
+          - See [https://artmyn.com](https://artmyn.com)
+      - layout: left
+        title: Systers, Anita Borg Institute
+        sub_title: Google Summer of Code (GSoC) Student Developer
+        caption: MAY 2015 - AUG. 2015
+        description: | # this will include new lines to allow paragraphs
+          <div style="text-align: center;">
+          <img src="https://wiki.openstack.org/w/images/5/50/GSoC2016Logo.jpg" alt="GSoC logo" height="60"/>
+          </div>
+          - Accepted as a Google Summer of Code student developer for a Rails application project.
+          - Used Rails, PostgreSQL, ReactJS, minitest-rails, Capistrano, Passenger.
+          - Used Slack, Travis CI, Git/GitHub, Agile for communication, CI, and development.
+          - Experience with working with collaborators around the globe (Asia, America, and Europe)
+      - layout: left
+        title: YelloMobile
+        sub_title: Software Engineer
+        caption: JAN. 2015 - APRIL 2015
+        description: | # this will include new lines to allow paragraphs
+          <div style="text-align: center;">
+          <img src="https://www.besuccess.com/wp-content/uploads/2014/10/Yello-Mobile-Logo.png" alt="YelloMobile logo" height="60"/>
+          </div>
+          - Part of the team running the Dieter app, once ranked 4th on the health category in Google Play Market in Korea, with over 1.5 million users.
+          - Used Rails, AngularJS, Capistrano, Unicorn, and cooperated with Android and iOS developers, as well as with web designers.
+          - Used Git, GitHub, AWS (EC2, RDBMS, Load Balancing, CloudWatch and Route 53).
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -150,8 +301,6 @@ content:
           <div style="text-align: center; " class="visible-xs-block">
             <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/American_School_of_Paris_logo.png/220px-American_School_of_Paris_logo.png" alt="ASP logo" height="60"/>
           </div>
-
-
         # quote: >
           # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         # description: | # this will include new lines to allow paragraphs
@@ -402,156 +551,6 @@ content:
   #       sub_title: 2018. KCC (Korea Computer Congress).
   #       description: | # this will include new lines to allow paragraphs
   #           *Won Wook Song*, and Byung-Gon Chun.
-
-  - title: Experiences # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Huawei Technologies Switzerland
-        sub_title: Senior Research Scientist in Computing Systems.
-        caption: MAY 2025 - CURRENT
-        link: https://www.huawei.com/ch-en/corporate-information/local-states
-        description: | # this will include new lines to allow paragraphs
-          <div style="text-align: center;">
-          <img src="https://www-file.huawei.com/-/media/corporate/images/home/logo/huawei_logo.png" alt="huawei logo" height="50"/>
-          </div>
-          - Senior Research Scientist in Computing Systems, focusing on OS, Storage, Memory, and AI
-          - Open to collaboration opportunities!
-      - layout: left
-        title: FriendliAI
-        sub_title: AI System Engineer/Researcher.
-        caption: SEPT 2023 - JAN 2025
-        link: https://friendli.ai
-        description: | # this will include new lines to allow paragraphs
-          <div style="text-align: center;">
-          <img src="https://wonook.github.io/images/friendliai-sig-blue-fill.png" alt="friendliai logo" height="40"/>
-          </div>
-          - Start-up experience in building a resource-efficient system for serving AI and large language models (LLM) on GPGPUs (i.e., a closed-source system similar to vLLM/TensorRT-LLM).
-          - Built the fastest LLM engine in the world (at the time) running on GPGPUs, reported by [artificialanalysis.ai](https://artificialanalysis.ai/models/llama-3-3-instruct-70b/providers).
-          - Our team built support for features like continuous batching, KV caching, adaptive & dynamic inference / tensor & pipeline parallelization, kernel optimization (e.g., FlashAttn) / quantization, MoE / agents & tools (e.g., structured outputs), RAG (e.g., vector stores), and fine-tuning (e.g., (multi) LoRA and PEFT).
-          - Experience in scalable large-scale cluster management through K8s and Docker (w/ various tools).
-          - Also the main author and editor-in-chief of the company's [technical publications](https://friendli.ai/blog).
-      - layout: left
-        title: Software Platform Lab
-        sub_title: PhD Candidate.
-        caption: MAY 2016 - AUG 2023
-        link: https://spl.snu.ac.kr
-        # link: github.com/sproogen
-        # link_text: Project Website
-        # additional_links:
-          # - title:  sproogen/modern-resume-theme
-          #   icon: fab fa-github
-          #   url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-          # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          <div style="text-align: center;">
-          <img src="https://avatars.githubusercontent.com/u/6446990?s=200&v=4" alt="SPL logo" height="120"/>
-          </div>
-          - Dissertation: <a href="https://s-space.snu.ac.kr/bitstream/10371/196490/1/000000177553.pdf">*Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems*</a>
-          - My research records demonstrate that I can *conduct researches and publish papers* in top-level conferences and journals as the first author, as well as *collaborate with others* as a co-author. Below are the brief explanations for each of the works.
-          - First-authored papers (in USENIX ATC, ACM EuroSys, TOCS, APSys)
-            - *Blaze* is a data processing system that optimizes caching for iterative workloads (i.e. ML, graph processing) by coordinating separate layers in a holistic manner to use memory resources effectively.
-            - *Sponge* is an adaptive and scalable stream processing system to handle bursty inputs by leveraging benefits of powerful stable VMs and fast-scaling serverless frameworks with special operators.
-            - *SWAN* is a stream processing system that adaptively utilizes optimal network connections under low-bandwidth high-latency globally distributed computing clusters.
-            - Published a journal paper (first-authored) and a conference paper (co-authored) for the *Apache Nemo* project that flexibly builds dataflow optimization policies through customizable task scheduling and data communication.
-          - Co-authored papers (in USENIX ATC, ACM EuroSys, IEEE ICDCS)
-            - *Cruise* is a system for automatically adjusting system configurations for distributed ML jobs.
-            - *Harmony* is a scheduling framework for optimizing the execution of multiple distributed ML jobs for high utilization of CPU, memory, and network resources.
-            - *Pado* is a distributed data processing system that effectively uses preemptible spot (transient) resources while guaranteeing progress.
-          - Apart from the papers, I've also led to a successful completion of an 8-year grant project funded by the Korean government (IITP of MSIT) (No.2015-0-00221)
-      - layout: left
-        title: Apache Software Foundation
-        sub_title: Started as a GSoC student developer, mentor, and now a project committer and PMC.
-        caption: MAY 2016 - PRESENT
-        link: https://www.apache.org
-        description: | # this will include new lines to allow paragraphs
-          <div style="text-align: center;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/320px-Apache_Software_Foundation_Logo_%282016%29.svg.png" alt="apache logo" height="120"/>
-          </div>
-          - Primary committer and a PMC member on the Apache Nemo incubator project.
-          - Participated as a GSoC mentor in 2017, [2018](https://summerofcode.withgoogle.com/archive/2018/projects/4758094961704960), 2020, [2021](https://summerofcode.withgoogle.com/archive/2021/projects/5555996843311104), [2022](https://summerofcode.withgoogle.com/archive/2022/projects/hNZOOc0x) for ASF to supervise student projects on top of Apache Nemo.
-          - Contributing to other Apache projects as well, such as Apache Beam from 2018.
-          - Experiences with open source contribution, and community activities, including preparing and launching releases.
-          - Previously a [Google Summer of Code student developer](https://summerofcode.withgoogle.com/archive/2016/projects/5207595501486080) for the Apache REEF project and finished the development of a ssh-standalone mode for running REEF in 2016, a library from MS that facilitates building of distributed systems in cluster environments with a master and multiple workers.
-          - Experience with tools like Apache Maven, JIRA, Git/GitHub, and many more.
-      - layout: left
-        title: Microsoft Research
-        sub_title: Research Intern.
-        caption: DEC. 2020 - JUNE 2021
-        link: https://www.microsoft.com/research
-        description: | # this will include new lines to allow paragraphs
-          <div style="text-align: center;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/320px-Microsoft_logo_%282012%29.svg.png" alt="MS logo" height="60"/>
-          </div>
-          - Worked with the [Network Research Group in MSRA](https://www.microsoft.com/en-us/research/group/networking_research_group/), mentored by Yongqiang Xiong and Wenxue Cheng, centering on reinforcement learning (i.e., involving simulators and evaluators)
-          - Worked with [OpenNetLab](https://github.com/OpenNetLab): open platform for RL-based congestion control for real-time communication, using bandwidth estimation for optimizing congestion control in production RTC workloads.
-      # - layout: left
-      #   title: Ministry of National Defense, Republic of Korea
-      #   sub_title: Technical Research Personnel.
-      #   caption: SEPT. 2020 - AUG. 2023
-      #   link: https://www.mnd.go.kr/mbshome/mbs/mndEN/
-      #   description: | # this will include new lines to allow paragraphs
-      #     <div style="text-align: center;">
-      #     <img src="https://i.namu.wiki/i/Hb-n_XhiZw5ubuNkLAaB7ITtCJxt5arniDBsZAQYrQVxsMDvLkhM0bQLEbHartzx6WqwB-wEbMxlm4-rK34p8WTKg8YYA5qsOCBUUGwcscnwJdEouP-S8qQ-7OoiQ5jZfZKr0_MmohFYzjb8AkyptQ.svg" alt="MND logo" height="60"/>
-      #     </div>
-      #     - Served the military duty of Republic of Korea as a Technical Research Personnel.
-  
-  - title: Past Experiences # Title for the section
-    collapsible: true
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: ButFitSeoul
-        sub_title: Software Engineer
-        caption: MAY 2018 - AUG. 2020
-        link: https://www.teambutfit.com
-        # link_text: Website
-        description: | # this will include new lines to allow paragraphs
-          <div style="text-align: center;">
-          <img src="https://www.filmmakers.co.kr/files/member_extra_info/profile_image/061/765/008/8765061.png?20200723134822" alt="butfit logo" height="60"/>
-          </div>
-          - Part of the start-up team running the ButFitSeoul service, a platform for gathering people for group exercise workout programs, with many thousands of participants.
-          - Used Django, VueJS, Fabric, Unicorn, and cooperated with web designers through Figma.
-          - Used Git, GitHub, AWS, GCP (Compute/EC2, RDBMS, Storage/S3, VPC, etc.)
-      - layout: left
-        title: ArtMyn
-        sub_title: Software Engineer <br>Lausanne, Switzerland (part-time)
-        caption: OCT. 2015 - JAN. 2016
-        link: https://artmyn.com
-        # link_text: Website
-        description: | # this will include new lines to allow paragraphs
-          <div style="text-align: center;">
-          <img src="data:image/png;base64,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" alt="artmyn logo" height="115"/>
-          </div>
-          - Used Django. Took care of the server-side materials (deployment and backend) for the start-up located in EPFL, Lausanne.
-          - See [https://artmyn.com](https://artmyn.com)
-      - layout: left
-        title: Systers, Anita Borg Institute
-        sub_title: Google Summer of Code (GSoC) Student Developer
-        caption: MAY 2015 - AUG. 2015
-        description: | # this will include new lines to allow paragraphs
-          <div style="text-align: center;">
-          <img src="https://wiki.openstack.org/w/images/5/50/GSoC2016Logo.jpg" alt="GSoC logo" height="60"/>
-          </div>
-          - Accepted as a Google Summer of Code student developer for a Rails application project.
-          - Used Rails, PostgreSQL, ReactJS, minitest-rails, Capistrano, Passenger.
-          - Used Slack, Travis CI, Git/GitHub, Agile for communication, CI, and development.
-          - Experience with working with collaborators around the globe (Asia, America, and Europe)
-      - layout: left
-        title: YelloMobile
-        sub_title: Software Engineer
-        caption: JAN. 2015 - APRIL 2015
-        description: | # this will include new lines to allow paragraphs
-          <div style="text-align: center;">
-          <img src="https://www.besuccess.com/wp-content/uploads/2014/10/Yello-Mobile-Logo.png" alt="YelloMobile logo" height="60"/>
-          </div>
-          - Part of the team running the Dieter app, once ranked 4th on the health category in Google Play Market in Korea, with over 1.5 million users.
-          - Used Rails, AngularJS, Capistrano, Unicorn, and cooperated with Android and iOS developers, as well as with web designers.
-          - Used Git, GitHub, AWS (EC2, RDBMS, Load Balancing, CloudWatch and Route 53).
 
   - title: Talks # Title for the section
     layout: list # Type of content section (list/text)
