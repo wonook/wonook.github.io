@@ -165,17 +165,17 @@ content:
       - layout: left
         title: NVIDIA
         sub_title: Senior Software Architect/Engineer
-        caption: FEB. 2026 - CURRENT
+        caption: FEB 2026 - CURRENT
         link: https://www.nvidia.com/
         description: |
           <div style="text-align: center;">
           <img src="https://s3.amazonaws.com/cms.ipressroom.com/219/files/20149/544a6120f6091d588d000048_NVLogo_2D_H/NVLogo_2D_H_0b8ebd28-4ba6-403f-864b-f5b4712a5ad6-prv.jpg" alt="NVIDIA logo" height="60"/>
           </div>
-          - Scalable and sustainable profiling services for performance analysis and debugging workflows (ML, data center, CPUs, GPUs etc.)
+          - Scalable and sustainable profiling services for performance analysis and debugging workflows (e.g., ML, data center, CPUs, GPUs)
       - layout: left
         title: Huawei Zurich Research Center
         sub_title: Senior Research Scientist in Computing Systems.
-        caption: MAY 2025 - FEB. 2026
+        caption: MAY 2025 - FEB 2026
         link: https://www.huawei.com/ch-en/corporate-information/local-states
         description: | # this will include new lines to allow paragraphs
           <div style="text-align: center;">
@@ -184,6 +184,7 @@ content:
           - Senior Research Scientist in Computing Systems, focusing on OS, Storage, Memory, and AI
           - Conducted end-to-end research projects, such as for automating distributed storage systems configurations specifically tailored for each of diverse workloads
           - Handled AI-related topics like offloading for MoE models, KV cache, RAG, and long-term memory (i.e., long contexts and large models) using hardwares such as SSDs & DPUs along with GPUs, via direct data transfers, host FTL, in-storage processing, sparse attn, and tiered storages.
+          - Collaboration experiences with other teams in the office and the HQ; mainly with storage experts to leverage different expertises and domain knowledge.
       - layout: left
         title: FriendliAI
         sub_title: AI System Engineer/Researcher.
