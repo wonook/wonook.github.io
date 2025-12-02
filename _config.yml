@@ -182,6 +182,8 @@ content:
           <img src="https://www-file.huawei.com/-/media/corporate/images/home/logo/huawei_logo.png" alt="huawei logo" height="50"/>
           </div>
           - Senior Research Scientist in Computing Systems, focusing on OS, Storage, Memory, and AI
+          - Conducted end-to-end research projects, such as for automating distributed storage systems configurations specifically tailored for each of diverse workloads
+          - Handled AI-related topics like offloading for MoE models, KV cache, RAG, and long-term memory (i.e., long contexts and large models) using hardwares such as SSDs & DPUs along with GPUs, via direct data transfers, host FTL, in-storage processing, sparse attn, and tiered storages.
       - layout: left
         title: FriendliAI
         sub_title: AI System Engineer/Researcher.
