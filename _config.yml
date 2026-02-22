@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
   I finished my Ph.D. in computer science at <a href="https://en.snu.ac.kr">Seoul National University</a> in 2023, under the supervision of <a href="https://bgchun.github.io">Professor Byung-Gon Chun</a>. My dissertation title is "<a href="https://s-space.snu.ac.kr/bitstream/10371/196490/1/000000177553.pdf">Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems</a>". I also received my B.S. degree in computer science from <a href="https://en.snu.ac.kr">Seoul National University</a> in 2017.
   You can check out my list of works on <a href="https://scholar.google.com/citations?user=OKtsXwMAAAAJ">Google Scholar</a> as well.  
 
-  Apart from work, I do a lot of sports (mainly tennis, golf, ski/snowboard, and BJJ nowadays), learn new languages, and meet new people. Due to my experience living around the world, I happen to be a motivation-driven, multicultural person with a flexible mindset and a fast-learning, open, adaptive attitude for new knowledge and people.  
+  Apart from work, I do a lot of sports (mainly tennis, golf, ski/snowboard, and BJJ nowadays), learn new languages, and meet new people. Due to my experience living around the world, I happen to be a motivation-driven, multicultural person with a flexible mindset and a fast-learning, open, adaptive attitude for new knowledge and people. Feel free to reach out if you feel like some casual coffee around the Bay Area!  
   <br><a href="https://docs.google.com/document/d/1S3vEHc9leVQ0NK_5GjvWHoKbbqGtxPJ-8Ka5jIDXzmc/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Click for my CV-critical" /></a>
 
 # <a href="mailto:wonook@apache.org"><img src="https://img.shields.io/badge/I'm looking for a job!-critical" /></a>
@@ -169,7 +169,7 @@ content:
         link: https://www.nvidia.com/
         description: |
           <div style="text-align: center;">
-          <img src="https://s3.amazonaws.com/cms.ipressroom.com/219/files/20149/544a6120f6091d588d000048_NVLogo_2D_H/NVLogo_2D_H_0b8ebd28-4ba6-403f-864b-f5b4712a5ad6-prv.jpg" alt="NVIDIA logo" height="60"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/NVIDIA_logo.svg/1920px-NVIDIA_logo.svg.png?20250413133403" alt="NVIDIA logo" height="60"/>
           </div>
           - Scalable and sustainable profiling services for performance analysis and debugging workflows (e.g., ML, data center, CPUs, GPUs)
       - layout: left
