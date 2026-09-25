@@ -81,7 +81,9 @@ content:
           <div style="text-align: center;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/NVIDIA_logo.svg/3840px-NVIDIA_logo.svg.png" alt="NVIDIA logo" height="60"/>
           </div>
-          - Scalable and sustainable profiling systems for performance analysis and debugging workflows (e.g., ML, data center, CPUs, GPUs)
+          - Scalable and sustainable profiling systems for real-time performance analysis and debugging workflows (e.g., GPUs, CPUS, network for AI/ML in racks and data centers)
+          - Building foundations for continuous, dynamic resource optimization and efficient computing on GPU workloads.
+          - Driving multi-node GPU profiling based on experiences on distributed systems.
       - layout: left
         title: Huawei Zurich Research Center
         sub_title: Senior Research Scientist in Computing Systems.
@@ -94,7 +96,7 @@ content:
           - Research in Computing Systems, focusing on OS, Storage, Memory, and AI
           - Conducted end-to-end research projects, such as for automating distributed storage systems configurations specifically tailored for diverse individual workloads
           - Handled AI-related topics like offloading for MoE models, KV cache, RAG, and long-term memory (i.e., long contexts and large models) using hardwares such as SSDs & DPUs along with GPUs, via direct data transfers, host FTL, in-storage processing, sparse attn, and tiered storages.
-          - Collaboration experiences with other teams in the office and the HQ; mainly with storage and AI experts to leverage different expertises and domain knowledge for actual products.
+          - Collaboration experiences with other teams in the office, academia (e.g., ETH), and the HQ; mainly with storage experts to leverage different expertises and domain knowledge for actual products.
       - layout: left
         title: FriendliAI
         sub_title: AI System Engineer/Researcher.
@@ -118,7 +120,7 @@ content:
           <div style="text-align: center;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/3840px-Microsoft_logo_%282012%29.svg.png" alt="MS logo" height="55"/>
           </div>
-          - Worked with the [Network Research Group in MSRA](https://www.microsoft.com/en-us/research/group/networking_research_group/), mentored by Yongqiang Xiong and Wenxue Cheng, centering on reinforcement learning (i.e., involving simulators and evaluators)
+          - Worked with the [Network Research Group in MSR](https://www.microsoft.com/en-us/research/group/networking_research_group/), mentored by Yongqiang Xiong and Wenxue Cheng, centering on reinforcement learning (i.e., involving simulators and evaluators)
           - Worked with [OpenNetLab](https://github.com/OpenNetLab): open platform for RL-based congestion control for real-time communication, using bandwidth estimation for optimizing congestion control in production RTC workloads.
       - layout: left
         title: Software Platform Lab
@@ -630,7 +632,7 @@ content:
       <br><br>
 
       #### Visa Status
-      US green card via EB2-NIW; Swiss Residence Permit B; Korean Citizenship.
+      US green card via EB2-NIW; <s>Swiss Residence Permit B;</s> Korean Citizenship.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
